@@ -18,6 +18,7 @@ Callyo, Herm, Luster Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hesl
 There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff! Thank you all!
 
 **Additional thanks to these people for fact checking this and for correcting any mistakes made plus suggesting things**: 
+
 Callyo, Luster Lavender, S10
 
 ## What mistakes do I avoid + what do I make sure to do?
