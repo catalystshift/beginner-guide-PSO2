@@ -13,11 +13,12 @@ This guide is written on the assumption that no money is intended to be spent on
 
 **Credits to the helpful people of the Fleet Discord's #advice channel without whom I would still be clueless about near everything in this game, in no particular order**:
 
-Callyo, Herm, Phantom Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hesloth, Brand New Star, Hespathus, Stroudbun, nasty_wolverine, Qmzn, lazybone95, someone
+Callyo, Herm, Luster Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hesloth, Brand New Star, Hespathus, Stroudbun, nasty_wolverine, Qmzn, lazybone95, someone
 
 There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff! Thank you all!
 
-**Additional thanks to these people for fact checking this and for correcting any mistakes made**: ??? THIS COULD BE YOU, FELLOW HOOMAN
+**Additional thanks to these people for fact checking this and for correcting any mistakes made plus suggesting things**: 
+Callyo, Luster Lavender, S10
 
 ## What mistakes do I avoid + what do I make sure to do?
 
@@ -40,7 +41,7 @@ There are probably people I missed here as the channel is chock full of enthusia
 - **Collection folder weapons naturally have an enhance cap of 30**, and thus need more of the same to get them to 35. Same applies to Exchange Shop weapons at the exchange counter on floor two of the shopping plaza.
 - This won't be relevant till later, **but note that base weapons acquired at Zig exchanges also come with an enhance cap of 30**(I.E. Profound weapons), *some of these also drop naturally from quests in which case their enhance cap will be 35*(applies to all natural drops that are 13* and above. Below 13* generally have an enhance cap of 30 and need items called Enhance caps or the same weapon type to push it to 35, which you will basically never need to do, so).
 - Don't neglect the Daily Crafting option in your Personal Quarters(both are available from the start). These will get you titles plus other goodies at literally no cost to you(although daily crafts are time locked, which can be removed via Lilliparium items which are again, gifted to you for doing Daily Crafts LOL, from the Title Counter to the right of the Gateway Ship).
-- If you are F2P, it is exceedingly important **to draw your FUN scratch**. FUN is earned for logging in, reviving people, liking things on Lookbook, sending kudos and simply just playing the game. FUN scratch tickets(1000 FUN!) can be bought at the Ex-Cube exchange with ease as well, so you really have no excuse besides inventory management shenanigans to do so. FUN Scratch gives you potentially big rewards in the form of Personal Quarters passes(allows you to change Room Layouts to the bigger ones, letting you play interior designer) and much more importantly, **3 day Personal Shop Passes**(rare draw, super worth it) which as you may guess, let you setup your personal shop and sell things for meseta. More importantly, it only controls your ability to ADD items to your shop, you can collect your earnings without shop access and also withdraw items from your shop as well meaning you can add certain important items at obscene prices for the sake of behaving as another 'storage'.
+- **If you are F2P, it is exceedingly important to draw your FUN scratch**. FUN is earned for logging in, reviving people, liking things on Lookbook, sending kudos and simply just playing the game. FUN scratch tickets(1000 FUN!) can be bought at the Ex-Cube exchange with ease as well, so you really have no excuse besides inventory management shenanigans to do so. FUN Scratch gives you potentially big rewards in the form of Personal Quarters passes(allows you to change Room Layouts to the bigger ones, letting you play interior designer) and much more importantly, **3 day Personal Shop Passes**(rare draw, super worth it) which as you may guess, let you setup your personal shop and sell things for meseta. More importantly, it only controls your ability to ADD items to your shop, you can collect your earnings without shop access and also withdraw items from your shop as well meaning you can add certain important items at obscene prices for the sake of behaving as another 'storage'.
 - *Save. Your. SG.* It will be tempting to use it to purchase Mission Pass tiers, and many other things. Just save it, there are more useful things to spend it on.
 - **Do not roll AC scratches without asking around and some research**, ideally. Save it until you are sure you know what you are buying and why.
 
@@ -117,6 +118,8 @@ The base concepts are simple but the game does a horrible job of teaching them. 
   - The same principles apply to units as well. The caveat is only a few units possess augment factors, meaning synthesized augments such as Mana Reverie are a pain to     make on them compared to weapons which can utilize augment factor from Profounds to make that one with relative ease. This is why you save your Augment Transfer       Passes for your units as they are a pain to acquire.
   
   - When enhancing weapons to 35 for their SAF, prioritize using collection folder weapons from 15 CF1 and 2 or the 13* collection folder. All of them drop at +30 and     reduce the lambda grinders you need and quickly plus 10 your weapon one 30 CF weapon at a time.
+  
+  Also helpful to know is that the gameplay difference between 7 slots and 8 slots is not too massive(although this may not apply to a certain endgame weapon that has not arrived at the time of writing this), so if 8 slot is too intimidating for you, 7 slots is perfectly fine. Hell, go 6 slots, just...try to get good-ish affixes, even if budget.
 
 ## Bonus Keys and how to best use them!
 
@@ -143,11 +146,24 @@ The idea is to maximize booster mileage, so you pop less boosters per key spam e
 
 - Chronos Eternistone, Founders Amphitrite and Key Rivalates' are exceedingly rare drops from quite a few Ultra Hard quests such as Wisdom Incarnate and The Malevolent Void, and otherwise can be earned as title rewards(especially title milestones, going up to 800 titles for a Rivalate Key).
 
-- Void Fragments for Zig exchange Profound/Starquake/Trailblazer weapon and units can be farmed on the quests The Malevolent Void and The Call of the Void.
+- Void Erebite Fragments for Zig exchange Profound/Starquake/Trailblazer weapon and units can be farmed in the quests The Malevolent Void and The Call of the Void.
 
 - Ultimate Boosters drop from most Ultra Hard quests.
 
 - Luminfragment Emels + Granias are acquired by doing Divide Quests enough times to earn the required points. Stages 1-10 are used more often for Divide Medal farming, whereas 20+ are used for Divide Points. This however is high level content so you won't need to think about it for a while. Once ready, look up guides to Divide Quests as it can be a bit tricky(and also fun AF) to do em.
+
+## What even is endgame in PSO2?
+Many MMO's have specific raids  that can only be done via top tier weapon and well built classes. This sn't the case with PSO2, where even poorly skilled(skill tree or reflexes) players can technically tackle the highest level content. PSO2 has no definitive final goal, except the one you set for yourself.
+Here's my take on endgame: 
+You either fashion competitively, or you go the DMC/character action games route - try to get better at the game and see how well you can tackle certain quests or bosses(the endgame ones specifically), how fast, how high you can get your DPS. Think Depth 999 Masquerade(Ultimate Quest: Remnants of a Parallel World).
+And or affixing shenanigans, can you get ALL the endgame affixes without losing your mind?
+Or do you just do the story and tap out till another update?
+Will you make a machinima series out of PSO2?
+Make of it what you will, and more importantly, have fun with it :)
+
+## Ultra Hard and above Relevant Guides
+This section will generally be used for providing guides to the current relevant and/or high difficulty content in PSO2. So if you seek guides for say, Ultimate Quests, please refer elsewhere.
+For now, that content is Divide Quests: [https://docs.google.com/document/d/1s1lF4i1RNqkIdJtJq1QMbpEfTonbTkebT8Fepi5-tuQ/edit#]
 
 ## Resources:
 
@@ -165,8 +181,7 @@ Not always up to date but reliable information otherwise, its affixing section i
 - Phantasy Star Fleet Discord, the home of many a guide, a helpful community and more!: [https://discordapp.com/invite/pso2]
 Your go to place for most guides and questions.
 
-- The PSO2 Reddit:
-[https://www.reddit.com/r/PSO2]
+- The PSO2 Reddit: [https://www.reddit.com/r/PSO2]
 
 - Youtubers:
   - Blac to Basics [https://www.youtube.com/channel/UCbZ_Vz4wQobZg02jXPs1a8A]
