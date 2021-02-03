@@ -15,7 +15,7 @@ This guide is written on the assumption that no money is intended to be spent on
 
 Callyo, Herm, Phantom Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hesloth, Brand New Star, Hespathus, Stroudbun, nasty_wolverine, Qmzn, lazybone95, someone
 
-There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff~! Thank you all!
+There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff! Thank you all!
 
 **Additional thanks to these people for fact checking this and for correcting any mistakes made**: ??? THIS COULD BE YOU, FELLOW HOOMAN
 
