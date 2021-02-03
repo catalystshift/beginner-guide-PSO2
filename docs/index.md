@@ -1,5 +1,5 @@
 # A Basic No-Frills PSO 2 Newbie Guide 
-  ~written on 6th January 2021 by user adventus on Discord(Phantasy Star Fleet)
+  ~written by user adventus on Discord(Phantasy Star Fleet)
 (written on the assumption that no money is intended to be spent on the game. You can doe, how else you gunna fashun competitively? Fashun endgame. For quite a few folks. Also getting that one more mag. Sexay.)
 (Guide goal: To reduce confusion, help you avoid some common mistakes plus give a general guide on how to play the first few weeks of the game!)
 
