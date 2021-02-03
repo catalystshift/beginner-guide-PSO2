@@ -12,9 +12,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 (Guide goal: To reduce confusion, help you avoid some common mistakes plus give a general guide on how to play the first few weeks of the game!)
 
 Credits to the helpful people of the Fleet Discord's #advice channel without whom I would still be clueless about near everything in this game, in no particular order:
+
 Callyo, Herm, Phantom Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hesloth, Brand New Star, Hespathus, Stroudbun, nasty_wolverine, Qmzn, lazybone95, someone
 
 There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff~! Thank you all!
+Additional thanks to these people for fact checking this and for correcting any mistakes made: ??? THIS COULD BE YOU, FELLOW HOOMAN
 
 ## What mistakes do I avoid + what do I make sure to do?
 
@@ -52,7 +54,7 @@ Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord f
 
 ## What tasks are best focused on as a new player?
 
-Practice patience. I am not trolling you, I am dead serious, read through this guide and then pick a class, and read through its guide but skip its equipment section for now. You are about to play a game that is rushing through 8 years of content, watch this to get an idea(thank you Anamana!): https://www.youtube.com/watch?v=eu0HRBJko48
+Practice patience. I am not trolling you, I am dead serious, read through this guide and then pick a class, and read through its guide but skip its equipment section for now. You are about to play a game that is rushing through 8 years of content, watch this to get an idea(thank you Anamana!): [https://www.youtube.com/watch?v=eu0HRBJko48]
 
 Its easy to get overwhelmed with this game, but if you let it, it will eventually start washing over you and sinking in. 
 Now, to the point:
@@ -60,12 +62,17 @@ Now, to the point:
 
 1. Fill out your three free character slots first and foremost. Frankly this is recommended either way. More characters equals more goodies whenever Sega hands out character specific goods like Reset Skill Tree passes. Race doesn't matter for moment to moment gameplay and has exceedingly limited impact on stats(magic/technique using CASTs aren't uncommon for example), so pick and make what you like. You can change everything except gender down the line. Then -
   - Pick any one character to play, and go.
+
   - Early on you will receive an item called a Mag. This thing is extremely important and must remain not-fucked-up. Look at me, you, will, not, fuck, this, up, unless you have money to burn and want to do it as a joke, but I recommend charities instead. Every character gets its own mag, it cannot be traded to other characters or players.
  To avoid guide bloat, here is a link as to how to level a pure stat mag: https://forum.pso2.com/topic/538/tips-guide-raising-pure-mags-revised-2-5
 One thing not mentioned there: Food devices can also be bought from the player shop, not just Photon Drop Exchange. This can be bearable/cheap-ish depending on how well you are managing your meseta gathering. Compare ship prices and decide if you want to take that plunge, or if you are OK with mag leveling taking some time.
+
   - Play your first character focusing on Cofy's client orders plus Daily/Weekly ARKS Missions. Cofy can be found on the right side of the gate area at the quest counter, also memorize the location of Equipment Officer Prin to the right of her(your right, her left). Cofy's orders unlock additional missions, classes and game important features. Any time you see an order to the effect of introducing a new mechanic or unlocking something, prioritize it. Doing this will take you through quite a few missions and game mechanics.
+
   - At the same time, go to Prin on the right. Pick out three weapons for your collection sheet(ignore the 13* rank sheets, go straight to 15*). Pick at least one Croesus weapon related to the class you are playing(if Armada is no longer in rotation, pick an Orb) and pick one Orb weapon(the end goal of this weapon will either be enhancing fodder or be used for its augment factor. Don't worry about it if you don't get what I mean, just get any Orb weapon, and whenever the sheet fills out and gets available again, usually after 48 hours, reclaim the same weapons sheet again for a total of six times). Note – get Croesus weapons for whichever class you are looking to switch to(or Orbs) after playing around with the current for a while. Keep doing so until you have Croesus for every class. If Luminmechs are hard to come by, you could go for Orbs instead.
+
   - Do Urgent Quests when they pop up with boosters on. Specifically, Triboost 100%/50% and Rare Drop Rate 250%. Triboosts are often handed out by Sega and after playing for a while you will likely end up with multiple 100s, for now, you will earn 50s via logins or the daily ARKS Missions(not quests, its a menu thing, you fulfill conditions and get rewards). This will get your collection sheet filled out. Do not solo them until you know what you are doing.
+
   - Ideally, find an Alliance to join. Next to the level up dude within the gate area is the Alliance Officer. Setup up your profile according to your preferences and either wait or actively seek out alliances. Alliances provide additional orders to fulfill plus the invaluable Buff Tree which boost your EXP rates, rare drop rates and so on, and of course provide people to play with and so on. Note that Alliances are account bound, not per character. Each of your alts will belong to the same alliance!
 
 2. Once your Cofy orders are done and you have a better idea of whats what – your next biggest task is spamming Recommended Quest 4 until all your classes reach level 75 once, no matter the character used to reach lvl 75 with. This provides account wide boosts to stats for all your characters no matter the class being played, which is invaluable and needed for endgame. You only need to reach 75 once with every class, no matter the character you reach it with. You don't need to reach 75 say twice or thrice, that is, for example, 75 with Hunter on characters A, B and C. Reaching 75 on Hunter with Character A will unlock the buff for everyone. Note: please also refer the section on Bonus Keys down below if you are considering using them for leveling.
@@ -78,11 +85,15 @@ One thing not mentioned there: Food devices can also be bought from the player s
 
 6. Its also finally time to start exploring Zig weapon exchanges! Zig is the black CAST found next to the enhancement/affixing lab, and is responsible for all endgame gear! If you've reached this point, you have no business reading this, and I implore you to seek out guides more suited to this task or to take to the Discord :)
 
+## How do I approach Urgent Quests?
+Early on most of the content is simple enough that you won't have to think too hard about this and can wing it mostly. As you approach XH difficulty however, its recommended to look up video guides if you find yourself having trouble and maybe start considering finding specific groups to run those quests with(Discord makes this easy, as does belonging to an Alliance) as PUGs(public games or pick-up-groups) can often contain players who may not know what they are doing(which is A-OK and can be part of the fun but not helpful if you are trying to farm or get specific things done). Either run a general Youtube search or check out the channels recommended in the Resources section.
+
 ## Affixing
 
 The bane of many a people. If you are a very skilled player and don't easily kiss the floor and are good at learning boss patterns, you could skip this. However, learning how the system works can bring benefits to any player and lead to more well-rounded and powerful characters, after all, you are playing an RPG. That said, PSO2 is very casual friendly and lenient, and you can completely ignore this mechanic until you hit UH(Ultra Hard) if you so wish. UH, its advisable to partake and make use of it but a very skilled player can still get by without(but obviously at more risk to themselves and with less efficacy during MPA quests plus urgents).
 The base concepts are simple but the game does a horrible job of teaching them. In-depth guides can be found on the Fleet discord plus on youtube with the affixing simulator also simplifying things a lot, my task is to help you understand some basic things/avoid a few common mistakes:
    - Affixing requires two or more items. The non-main items(the ones you choose after the first one, called fodders) used in affixing need to hold the same number of “slots”(augments) as the base or main item you first choose, or need to have a higher amount.
+   
   - Below 8 slots, you will notice the option to add an additional affix whenever affixing, with reduced success rates for every other affix if attempted. This is called upslotting and can be made easier with Augmentation Aids which are acquired via ARKS Missions, some titles, and more frequently and reliably at steep-ish costs that even out around UH at the EX-Cube Exchange Shop(shopping plaza, floor 2 right side from the entrance). 8 slots are the maximum you can have. Each upslot has increased risk with 8s being the riskiest to make. 
 Downslot by contrast is where you purposely take a weapon anf re-affix it, but choose one less than the amount of augments it already holds, thereby reducing its amount. This can be relevant for if you find high slot affixes too challenging or heavy on your meseta/ex-cubes, and want to go for a lower slot number that will be easier for you.
 
@@ -101,7 +112,8 @@ Downslot by contrast is where you purposely take a weapon anf re-affix it, but c
 ## Bonus Keys and how to best use them!
 
 Firstly: Rainbows only on characters above level 85, 90 even. This, is, important. OK, carry on.
-Save your Tokyo silvers, golds and rainbows, rappy fevers and kazuchi assaults for PSO2 Day unless they are expiring. Use your Magatsu keys as soon as you have them(they give bonus SG which is an important ingame currency, the other things are negligible.). On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them(or in general for class ex-cubes, which you start getting once you max out your level and then refill the exp bar, 10 per level up!) with ALL your boosters on, RDR 250, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
+Save your Tokyo silvers, golds and rainbows, rappy fevers and kazuchi assaults for PSO2 Day unless they are expiring. Use your Magatsu keys as soon as you have them(they give bonus SG which is an important ingame currency, the other things are negligible.). 
+On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them with ALL your boosters on, RDR 250, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
 The idea is to maximize booster mileage, so you pop less boosters per key spam event and get more use out of each, which is important because powerful ones like Tri 150%s or EX boosts are not handed out often or easily acquired unless spending real money like nobody's business.
 
 ## Where can I get X important item from?
@@ -124,61 +136,26 @@ The idea is to maximize booster mileage, so you pop less boosters per key spam e
 
 ## Resources:
 
-- Class Builds List for Global(via Fleet Discord): https://arks-layer.com/naclassbuilds
+- Class Builds List for Global(via Fleet Discord): [https://arks-layer.com/naclassbuilds]
 
-- Affixing Simulator: corvous.github.io/PSO2AffixingAssistant/
+- Affixing Simulator: [corvous.github.io/PSO2AffixingAssistant/]
 A simple and to the point sim that will show you how your weapons can be setup when affixing things and also show you what augments can be used to make what. Play around with it, its quite intuitive! Also gives short links for sharing your setups with other people with ease, to allow brainstorming and whatnot.
 
-- The JP Wiki - https://pso2.swiki.jp/ 
+- The JP Wiki - [https://pso2.swiki.jp/]
 The NA Visiphone/Wiki is not always updated, in those times, take to the JP wiki via Google Translate! And/or get yourself some spoilers...dohohoho.
 
-- The NA/Global Wiki - https://pso2.arks-visiphone.com/
+- The NA/Global Wiki - [https://pso2.arks-visiphone.com/]
 Not always up to date but reliable information otherwise, its affixing section is especially handy!
 
-- Phantasy Star Fleet Discord, the home of many a guide, a helpful community and more!: https://discordapp.com/invite/pso2
+- Phantasy Star Fleet Discord, the home of many a guide, a helpful community and more!: [https://discordapp.com/invite/pso2]
 Your go to place for most guides and questions.
 
 - The PSO2 Reddit:
-https://www.reddit.com/r/PSO2
+[https://www.reddit.com/r/PSO2]
 
 - Youtubers:
-  - Blac to Basics https://www.youtube.com/channel/UCbZ_Vz4wQobZg02jXPs1a8A
-  - Anamana https://www.youtube.com/channel/UCbGV8-jKrfwG5Y9hPoZsJNw
-  - Azelyra https://www.youtube.com/user/Azelyra
-  - Krono Katastrophy https://www.youtube.com/channel/UC-sjN6co2lCpiy12hjmXgqA
+  - Blac to Basics [https://www.youtube.com/channel/UCbZ_Vz4wQobZg02jXPs1a8A]
+  - Anamana [https://www.youtube.com/channel/UCbGV8-jKrfwG5Y9hPoZsJNw]
+  - Azelyra [https://www.youtube.com/user/Azelyra]
+  - Krono Katastrophy [https://www.youtube.com/channel/UC-sjN6co2lCpiy12hjmXgqA]
 Each of them tackle different aspects of the game, provide class overviews, news updates and more. I recommend checking each one out at least once!
-
-
----
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/catalystshift/beginnner-guide-PSO2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
