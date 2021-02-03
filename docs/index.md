@@ -54,6 +54,7 @@ There are probably people I missed here as the channel is chock full of enthusia
 
 Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord for more info. Ship 4 does have players as well but its personal shop is not considered half as good as the ones on Ships 1-3. Ship 1 and 2 are considered to have the best player shops for new players helping reduce some of the grind in getting up to speed for endgame.
 Also keep in mind **you cannot play with players from other ships aside from ARKS Battles and Challenge quests, and you can that only on the Universal Ship**. So if you have online or IRL friends who you are going to play with, make sure you take their Ship choices into consideration.
+Finally, **character slots are shared by all ships. You cannot make three characters on every ship, although you can make one separate character on three different ships which isn't recommended because then you can't share items between your toons and lose out on valuable inventory real estate by having all your characters on one ship. Additional characters may be made for 500 AC a pop.**
 
 ## What tasks are best focused on as a new player?
 
