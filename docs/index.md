@@ -26,11 +26,9 @@ There are probably people I missed here as the channel is chock full of enthusia
 
 **Common Equipment/Class Mistakes + To-Do's**:
 - Don't level your skilltree or mag for the sake of equipping a weapon below 13*. In fact, do not do this, ever. It is not needed. Not. Needed.
-- Unless its a DEX mag character or you are doing it for collection titles, do NOT get Millionaire weapons over Croesus weapons from the collection folders. Millionaire weapons have far higher DEX requirements which are incredibly hard to reach. Croesus is much easier to equip and is the exact same weapon except with different colors.
-Do not run multiple Tokyo Bonus Silver keys at once ideally. Save them(its ok if Tokyo Silvers expire, the idea is to exchange them for Golds during PSO2 Day, 5 for 1 gold key).
-- Do not make mixed stat mags.
+- Unless its a DEX mag character or you are doing it for collection titles, do NOT get Millionaire weapons over Croesus weapons from the collection folders. Millionaire weapons have far higher DEX requirements which are incredibly hard to reach. Croesus is much easier to equip and is the exact same weapon except with different colors. It must be noted that Armada UQ is being phased out at the time of writing this, barring new Collection Folders, the new recommended 15 to get will be the Orb weapons from 15 Collection Folder 2. Those merely require Urgent Quest completion.
+- Do not make mixed stat mags. You want either a pure S ATK, R ATK, T ATK or DEX mag.
 - Do not bother enhancing weapons below 13* rank in most cases until you reach the point where you get into affixing things. Units you can enhance if skilled play is not your forte and you need the defense, but ideally try and get high rank units instead first(see if any free campaign giveaways are going on, or if cheap high ranks can be bought from Player/personal shop, get a minimum 5 slot if so, you want 12 ranks ideally, if your character can wear that).
-
 
 **The Easy-To-Forget/Overlook and also supes useful/important things**:
 - Don't neglect the Daily Crafting option in your Personal Quarters(both are available from the start). These will get you titles plus other goodies at literally no cost to you(although daily crafts are time locked, which can be removed via Lilliparium items which are again, gifted to you for doing Daily Crafts LOL, from the Title Counter to the right of the Gateway Ship).
@@ -41,8 +39,103 @@ Do not run multiple Tokyo Bonus Silver keys at once ideally. Save them(its ok if
 **Bonus Key Mistakes plus To-Do's**:
 - Tokyo Rainbow Keys are meant for characters over level 85. 90 even. Do not use them on low level characters and ideally use them on PSO2 Day. Only ever use them on low level characters if they are about to expire before PSO2 Day or before one of your characters hits level 90. This is important, Sega does not hand these out like candy.
 - Do not run multiple Tokyo Bonus Silver keys at once ideally. Save them(its ok if Tokyo Silvers expire, the idea is to exchange them for Golds during PSO2 Day, 5 for 1 gold key). The intent is to get the most out of your booster items(Exp 75/100s, Triboosts and so on). 5 Tokyo Silvers will give you more EXP in total than one gold, yes, but the amount of time it takes to run those five silvers versus the amount it takes to run multiple golds in the same amount...you don't want to waste boosters, especially once that are rarely handed out such as PSO2 Day Donuts.
-- 
+- As a low level player with a DEX mag, you may want to consider buying a Occuld or Sigma launcher off the player shop if your clear times are too long. They may help reduce them.
+- Ideally run them on PSO2 Day(2nd of every month + also on 22nd if you are premium) with boosters on, unless your keys will expire before then.
 
+### What ship do I play on?
+
+Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord for more info. Ship 4 does have players as well but its personal shop is not considered half as good as the ones on Ships 1-3. Ship 1 and 2 are considered to have the best player shops for new players helping reduce some of the grind in getting up to speed for endgame.
+
+#### What tasks are best focused on as a new player?
+Practice patience. I am not trolling you, I am dead serious, read through this guide and then pick a class, and read through its guide but skip its equipment section for now. You are about to play a game that is rushing through 8 years of content, watch this to get an idea(thank you Anamana!): https://www.youtube.com/watch?v=eu0HRBJko48
+
+Its easy to get overwhelmed with this game, but if you let it, it will eventually start washing over you and sinking in. 
+Now, to the point:
+**Ask yourself if you are OK with spreading the classes around or if you need to play all of them optimally(or even just effectively) on one character**. For the latter, you will need to spend money on something called a Mag, three mags to be exact. Not too expensive and very doable/feasible. If you don't want to do that and are OK with spreading your classes around...
+
+1. Fill out your three free character slots first and foremost. Frankly this is recommended either way. More characters equals more goodies whenever Sega hands out character specific goods like Reset Skill Tree passes. Race doesn't matter for moment to moment gameplay and has exceedingly limited impact on stats(magic/technique using CASTs aren't uncommon for example), so pick and make what you like. You can change everything except gender down the line. Then -
+  - Pick any one character to play, and go.
+  - Early on you will receive an item called a Mag. This thing is extremely important and must remain not-fucked-up. Look at me, you, will, not, fuck, this, up, unless you have money to burn and want to do it as a joke, but I recommend charities instead. Every character gets its own mag, it cannot be traded to other characters or players.
+ To avoid guide bloat, here is a link as to how to level a pure stat mag: https://forum.pso2.com/topic/538/tips-guide-raising-pure-mags-revised-2-5
+One thing not mentioned there: Food devices can also be bought from the player shop, not just Photon Drop Exchange. This can be bearable/cheap-ish depending on how well you are managing your meseta gathering. Compare ship prices and decide if you want to take that plunge, or if you are OK with mag leveling taking some time.
+  - Play your first character focusing on Cofy's client orders plus Daily/Weekly ARKS Missions. Cofy can be found on the right side of the gate area at the quest counter, also memorize the location of Equipment Officer Prin to the right of her(your right, her left). Cofy's orders unlock additional missions, classes and game important features. Any time you see an order to the effect of introducing a new mechanic or unlocking something, prioritize it. Doing this will take you through quite a few missions and game mechanics.
+  - At the same time, go to Prin on the right. Pick out three weapons for your collection sheet(ignore the 13* rank sheets, go straight to 15*). Pick at least one Croesus weapon related to the class you are playing(if Armada is no longer in rotation, pick an Orb) and pick one Orb weapon(the end goal of this weapon will either be enhancing fodder or be used for its augment factor. Don't worry about it if you don't get what I mean, just get any Orb weapon, and whenever the sheet fills out and gets available again, usually after 48 hours, reclaim the same weapons sheet again for a total of six times). Note – get Croesus weapons for whichever class you are looking to switch to(or Orbs) after playing around with the current for a while. Keep doing so until you have Croesus for every class. If Luminmechs are hard to come by, you could go for Orbs instead.
+  - Do Urgent Quests when they pop up with boosters on. Specifically, Triboost 100%/50% and Rare Drop Rate 250%. Triboosts are often handed out by Sega and after playing for a while you will likely end up with multiple 100s, for now, you will earn 50s via logins or the daily ARKS Missions(not quests, its a menu thing, you fulfill conditions and get rewards). This will get your collection sheet filled out. Do not solo them until you know what you are doing.
+  - Ideally, find an Alliance to join. Next to the level up dude within the gate area is the Alliance Officer. Setup up your profile according to your preferences and either wait or actively seek out alliances. Alliances provide additional orders to fulfill plus the invaluable Buff Tree which boost your EXP rates, rare drop rates and so on, and of course provide people to play with and so on. Note that Alliances are account bound, not per character. Each of your alts will belong to the same alliance!
+
+2. Once your Cofy orders are done and you have a better idea of whats what – your next biggest task is spamming Recommended Quest 4 until all your classes reach level 75 once, no matter the character used to reach lvl 75 with. This provides account wide boosts to stats for all your characters no matter the class being played, which is invaluable and needed for endgame. You only need to reach 75 once with every class, no matter the character you reach it with. You don't need to reach 75 say twice or thrice, that is, for example, 75 with Hunter on characters A, B and C. Reaching 75 on Hunter with Character A will unlock the buff for everyone. Note: please also refer the section on Bonus Keys down below if you are considering using them for leveling.
+
+3. Have you reached level 75 on two classes? You will unlock Scion classes at this point. Hero, Phantom, Etoile and Luster. Scions/successor classes have their own special mechanics and gameplay styles and provide no boosts at level 75 and cannot carry a subclass(although Ph, Et and Lu can be used as subclass for base classes, sometimes invalidating base+base combos outright because the scions just offer better bonuses lol). Play around with them but prioritize level 75'ing the remaining bases if you haven't yet.
+
+4. The next step after this is determining which class you want to main or play with for a while. Once you have picked that plus its subclass if relevant, its time to level these to 85 separately for unlocking the final difficulty(Ultra Hard) and gaining access to current and future endgame content. Again, use RQ4 for this plus UQ's and EXP tickets. This is also a great time to look into how the class plays in more detail if you haven't already, content after level 75 starts punishing bad play so you want to learn better PA rotations and other nooks and crannies about your chosen class. Yes, I just told you to git gud lmao.
+
+5. As you approach UH, its generally also a good time to start looking into affixing. This is addressed below in a basic manner with in-depth guides to be found on the PSO2 Fleet discord and youtube.
+
+6. Its also finally time to start exploring Zig weapon exchanges! Zig is the black CAST found next to the enhancement/affixing lab, and is responsible for all endgame gear! If you've reached this point, you have no business reading this, and I implore you to seek out guides more suited to this task or to take to the Discord :)
+
+##### Affixing
+The bane of many a people. If you are a very skilled player and don't easily kiss the floor and are good at learning boss patterns, you could skip this. However, learning how the system works can bring benefits to any player and lead to more well-rounded and powerful characters, after all, you are playing an RPG. That said, PSO2 is very casual friendly and lenient, and you can completely ignore this mechanic until you hit UH(Ultra Hard) if you so wish. UH, its advisable to partake and make use of it but a very skilled player can still get by without(but obviously at more risk to themselves and with less efficacy during MPA quests plus urgents).
+The base concepts are simple but the game does a horrible job of teaching them. In-depth guides can be found on the Fleet discord plus on youtube with the affixing simulator also simplifying things a lot, my task is to help you understand some basic things/avoid a few common mistakes:
+   - Affixing requires two or more items. The non-main items(the ones you choose after the first one, called fodders) used in affixing need to hold the same number of “slots”(augments) as the base or main item you first choose, or need to have a higher amount.
+  - Below 8 slots, you will notice the option to add an additional affix whenever affixing, with reduced success rates for every other affix if attempted. This is called upslotting and can be made easier with Augmentation Aids which are acquired via ARKS Missions, some titles, and more frequently and reliably at steep-ish costs that even out around UH at the EX-Cube Exchange Shop(shopping plaza, floor 2 right side from the entrance). 8 slots are the maximum you can have. Each upslot has increased risk with 8s being the riskiest to make. 
+Downslot by contrast is where you purposely take a weapon anf re-affix it, but choose one less than the amount of augments it already holds, thereby reducing its amount. This can be relevant for if you find high slot affixes too challenging or heavy on your meseta/ex-cubes, and want to go for a lower slot number that will be easier for you.
+
+  - Using items with the same name leads to increased affixing success % chance, but each item needs to be the literal same. If even one fodder differs, the bonus is lost.
+
+  - Augmenting is made easier with augment factors, an augment that shows up during affixing with every weapon once enhanced to maximum(35). Augment factors are also subject to upslot penalties, but the base 100% success rate plus the fact you can reuse it endlessly when upslotting the 35+ weapon makes it very valuable. More importantly, certain augments are best gotten via augment factors, such as Reverie Catalysts from any Profound series weapon thats been enhanced to 35.
+
+  - Augments also come as s-augments, which generally come either in capsules or with specific 13* and above weapons or as augment factors(generally 13* and above only). Only weapon type with s-aug compatibility(shown in the info window) can use them, being compatible with anywhere from S1 to S5. S-Augs can be transferred with 100% success rates between weapons with the Transfer S-Augment option, although the weapon giving away the S-Aug will be downslotted unless an s-aug is transferred from the main onto it. S-Augs are also unaffected by upslotting or affixing penalties, essentially making them 'safe slots' for your upslotting/affixing business that you don't need to worry about.
+
+  - Even useless S-grade augments are worth keeping for the sole purpose of making high slot affixes less risky. If the weapon is important and about to be upslotted, slap some s-augs on it if supported and watch the entire process become ten times more bearable because the game can no longer troll you by failing your 90% affix success rate by downslotting you to two, from six. Yes thank you this did happen to me and yes I agree it sucked thanks so muchhhhh.
+
+  - The same principles apply to units as well. The caveat is only a few units possess augment factors, meaning synthesized augments such as Mana Reverie are a pain to make on them compared to weapons which can utilize augment factor from Profounds to make that one with relative ease. This is why you save your Augment Transfer Passes for your units as they are a pain to acquire.
+
+###### Bonus Keys and how to best use them!
+
+Firstly: Rainbows only on characters above level 85, 90 even. This, is, important. OK, carry on.
+Save your Tokyo silvers, golds and rainbows, rappy fevers and kazuchi assaults for PSO2 Day unless they are expiring. Use your Magatsu keys as soon as you have them(they give bonus SG which is an important ingame currency, the other things are negligible.). On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them(or in general for class ex-cubes, which you start getting once you max out your level and then refill the exp bar, 10 per level up!) with ALL your boosters on, RDR 250, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
+The idea is to maximize booster mileage, so you pop less boosters per key spam event and get more use out of each, which is important because powerful ones like Tri 150%s or EX boosts are not handed out often or easily acquired unless spending real money like nobody's business.
+
+###### Where can I get X important item from?
+
+- Ex-cubes are acquired via swapping 10-12* grade weapons for ex-cubes in the swap shop(the one accessed from menu), commonly. They are also given as rewards for CO's, ARKS Missions, titles and urgent quest rewards. 
+
+- Grinders/lambda grinders are earned via ARKS Missions/CO's as well. One can also exchange 12* weapons for lambdas if really needed. In a pinch, you can get them from the casino and you will notice they are also an option for several exchange shops for different items such as Buster and Divide Medals. The last option is not really recommended as there are better uses for those items. More importantly, as they are relevant for enhancing things they only become relevant once you hit XH and UH, so...just play normally and most likely you will have quite a bit by the time you need them.
+
+- Triggers(items that let you do urgent quests) can be bought at Rising Weapon Badge exchanges(same row as the ex-cube exchange shop). This is important for later farming purposes. Some 4 man triggers also drop from their 12 man versions(generally called rematches, for example, Call of the Void dropping from The Malevolent Void trigger). 4 mans can have better and more reliable drop rates at times.
+
+- Photon Spheres are the same logic as grinders, earned via normal play. Additionally, useless  12* units can be exchanged for spheres, 5 for a single sphere. Or, if swimming in ex-cubes, you could consider swapping 10-11*s for them.
+
+- YOU FOOL! I NEED MONEY, MESETA IS LIFE, MESETA IS BLOOD, WHY WOULD YOU BORE ME WITH THIS MEANINGLESS TRIPE! ASDASGDVASHFV ahem. The best advice for meseta is this: Do your weeklies and dailies, and look out for high meseta daily orders(specifically Bar Lodos for 250K meseta). Another option that gives OK meseta but is time consuming is spamming extreme quests, specifically ruins & oceanids extreme at stages 36-40. They spawn an order to kill 100 enemies in 100 seconds that gives good meseta. A much better and RNG dependent method is opening a player shop, player shop passes can be earned by drawing FUN scratch tickets(very low chance), which is something you want to be doing frequently. Thankfully 1000 FUN tickets are easily bought at the Ex-Cube exchange shop, so inventory management is the only real problem lol. Save valuable items(check via 'Check Item Market Prices') and then put them up for sale once you get your 3 day personal shop pass! FUN is earned by regular play, liking things on lookbook, sending kudos' and other thigns.
+
+- 'I need this augment...' check the wiki! They often have drop locations or equipment listed! If not listed or you can't find it, come ask in the PSO2 Fleet discord :)
+
+- Diard/Plania/GolX/Sapphard – These are earned by dismantling 13* and above weapons. Diards via 15* dismantling. In essence if you are looking at Zig exchanges thinking about this, don't worry about it until you hit UH.
+
+- Luminfragment Emeles + Granias are acquired by doing Divide Quests enough times to earn the required points. Stages 1-10 are used more often for Divide Medal farming, whereas 20+ are used for Divide Points. This however is high level content so you won't need to think about it for a while. Once ready, look up guides to Divide Quests as it can be a bit tricky(and also fun AF) to do em.
+
+######## Resources:
+- Affixing Simulator: corvous.github.io/PSO2AffixingAssistant/
+A simple and to the point sim that will show you how your weapons can be setup when affixing things and also show you what augments can be used to make what. Play around with it, its quite intuitive! Also gives short links for sharing your setups with other people with ease, to allow brainstorming and whatnot.
+
+- The JP Wiki - https://pso2.swiki.jp/ 
+The NA Visiphone/Wiki is not always updated, in those times, take to the JP wiki via Google Translate! And/or get yourself some spoilers...dohohoho.
+
+- The NA/Global Wiki - https://pso2.arks-visiphone.com/
+Not always up to date but reliable information otherwise, its affixing section is especially handy!
+
+- Phantasy Star Fleet Discord, the home of many a guide, a helpful community and more!: https://discordapp.com/invite/pso2
+Your go to place for most guides and questions.
+
+- The PSO2 Reddit:
+https://www.reddit.com/r/PSO2
+
+- Youtubers:
+  - Blac to Basics https://www.youtube.com/channel/UCbZ_Vz4wQobZg02jXPs1a8A
+  - Anamana https://www.youtube.com/channel/UCbGV8-jKrfwG5Y9hPoZsJNw
+  - Azelyra https://www.youtube.com/user/Azelyra
+  - Krono Katastrophy https://www.youtube.com/channel/UC-sjN6co2lCpiy12hjmXgqA
+Each of them tackle different aspects of the game, provide class overviews, news updates and more. I recommend checking each one out at least once!
 
 
 ---
