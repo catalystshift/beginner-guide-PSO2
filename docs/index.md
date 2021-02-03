@@ -164,7 +164,7 @@ Make of it what you will, and more importantly, have fun with it :)
 
 ## Ultra Hard and above Relevant Guides
 This section will generally be used for providing guides to the current relevant and/or high difficulty content in PSO2. So if you seek guides for say, Ultimate Quests, please refer elsewhere.
-For now, that content is Divide Quests: [https://docs.google.com/document/d/1s1lF4i1RNqkIdJtJq1QMbpEfTonbTkebT8Fepi5-tuQ/edit#]
+For now, that content is Divide Quests: [https://docs.google.com/document/d/1s1lF4i1RNqkIdJtJq1QMbpEfTonbTkebT8Fepi5-tuQ]
 
 ## Resources:
 
