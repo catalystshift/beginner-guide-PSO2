@@ -17,12 +17,14 @@ Callyo, Herm, Phantom Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hes
 There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff~! Thank you all!
 
 ## What mistakes do I avoid + what do I make sure to do?
+
 **Common Item Mistakes + To-Do's**:
 - Don't sell grinders(normal or lambda), ex-cubes, photon anything, synthesizers, Custom Type 'X', Merits/Demerits, materials gotten via Gathering in expeditions, boosters(Triboost, EXP Boost, also items like Photon Boosters), 13* star and above weapons and eggs until you know what you are doing. You may sell basic grinders(never lambda) after keeping aside one stack of 999.
 - Do not trash/discard your bonus keys if they are expired.
 - Exchange all 10-12 rank weapons you get for ex-cubes via the swap shop(accessed from the menu outside of a quest or on the gateway ship). Like Deo weapons or Sigmas or Nox weapons. There is literally no upper limit on how many ex-cubes you need, so do this liberally, all, the, time.
 - Do not sell weapon 13* rank and above or dismantle them or swap for ex-cubes until you are certain you don't need them after later research(you will want the S-Augments page on the NA Visiphone). Unless your inventory is bursting, then, ask around and then do so, saving the important ones.
 - If you plan to get into affixing, save weapons and units(low rank ones) that are 7 slot(7s) and above in your inventory. Whatever number you are comfortable with keeping, despite the inventory management issues it will inevitably bring. Thank me later.
+- At some point you may start receiving items named as 'Add S1/S2' or 'Affix Augment' or 'Augment (HP&PP3)', until you know what you are doing, don't trash these.
 
 **Common Equipment/Class Mistakes + To-Do's**:
 - Don't level your skilltree or mag for the sake of equipping a weapon below 13*. In fact, do not do this, ever. It is not needed. Not. Needed.
@@ -31,6 +33,8 @@ There are probably people I missed here as the channel is chock full of enthusia
 - Do not bother enhancing weapons below 13* rank in most cases until you reach the point where you get into affixing things. Units you can enhance if skilled play is not your forte and you need the defense, but ideally try and get high rank units instead first(see if any free campaign giveaways are going on, or if cheap high ranks can be bought from Player/personal shop, get a minimum 5 slot if so, you want 12 ranks ideally, if your character can wear that).
 
 **The Easy-To-Forget/Overlook and also supes useful/important things**:
+- Collection folder weapons naturally have an enhance cap of 30, and thus need more of the same to get them to 35. Same applies to Exchange Shop weapons at the exchange counter on floor two of the shopping plaza.
+- This won't be relevant till later, but note that base weapons acquired at Zig exchanges also come with an enhance cap of 35(I.E. Profound weapons), some of these also drop naturally from quests in which case their enhance cap will be 35(applies to all natural drops that are 13* and above. Below 13* generally have an enhance cap of 30 and need items called Enhance caps or the same weapon type to push it to 35, which you will basically never need to do, so).
 - Don't neglect the Daily Crafting option in your Personal Quarters(both are available from the start). These will get you titles plus other goodies at literally no cost to you(although daily crafts are time locked, which can be removed via Lilliparium items which are again, gifted to you for doing Daily Crafts LOL, from the Title Counter to the right of the Gateway Ship).
 - If you are F2P, it is exceedingly important to draw your FUN scratch. FUN is earned for logging in, reviving people, liking things on Lookbook, sending kudos and simply just playing the game. FUN scratch tickets(1000 FUN!) can be bought at the Ex-Cube exchange with ease as well, so you really have no excuse besides inventory management shenanigans to do so. FUN Scratch gives you potentially big rewards in the form of Personal Quarters passes(allows you to change Room Layouts to the bigger ones, letting you play interior designer) and much more importantly, 3 day Personal Shop Passes(rare draw, super worth it) which as you may guess, let you setup your personal shop and sell things for meseta. More importantly, it only controls your ability to ADD items to your shop, you can collect your earnings without shop access and also withdraw items from your shop as well meaning you can add certain important items at obscene prices for the sake of behaving as another 'storage'.
 - Save. Your. SG. It will be tempting to use it to purchase Mission Pass tiers, and many other things. Just save it, there are more useful things to spend it on.
@@ -42,11 +46,12 @@ There are probably people I missed here as the channel is chock full of enthusia
 - As a low level player with a DEX mag, you may want to consider buying a Occuld or Sigma launcher off the player shop if your clear times are too long. They may help reduce them.
 - Ideally run them on PSO2 Day(2nd of every month + also on 22nd if you are premium) with boosters on, unless your keys will expire before then.
 
-### What ship do I play on?
+## What ship do I play on?
 
 Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord for more info. Ship 4 does have players as well but its personal shop is not considered half as good as the ones on Ships 1-3. Ship 1 and 2 are considered to have the best player shops for new players helping reduce some of the grind in getting up to speed for endgame.
 
-#### What tasks are best focused on as a new player?
+## What tasks are best focused on as a new player?
+
 Practice patience. I am not trolling you, I am dead serious, read through this guide and then pick a class, and read through its guide but skip its equipment section for now. You are about to play a game that is rushing through 8 years of content, watch this to get an idea(thank you Anamana!): https://www.youtube.com/watch?v=eu0HRBJko48
 
 Its easy to get overwhelmed with this game, but if you let it, it will eventually start washing over you and sinking in. 
@@ -73,7 +78,8 @@ One thing not mentioned there: Food devices can also be bought from the player s
 
 6. Its also finally time to start exploring Zig weapon exchanges! Zig is the black CAST found next to the enhancement/affixing lab, and is responsible for all endgame gear! If you've reached this point, you have no business reading this, and I implore you to seek out guides more suited to this task or to take to the Discord :)
 
-##### Affixing
+## Affixing
+
 The bane of many a people. If you are a very skilled player and don't easily kiss the floor and are good at learning boss patterns, you could skip this. However, learning how the system works can bring benefits to any player and lead to more well-rounded and powerful characters, after all, you are playing an RPG. That said, PSO2 is very casual friendly and lenient, and you can completely ignore this mechanic until you hit UH(Ultra Hard) if you so wish. UH, its advisable to partake and make use of it but a very skilled player can still get by without(but obviously at more risk to themselves and with less efficacy during MPA quests plus urgents).
 The base concepts are simple but the game does a horrible job of teaching them. In-depth guides can be found on the Fleet discord plus on youtube with the affixing simulator also simplifying things a lot, my task is to help you understand some basic things/avoid a few common mistakes:
    - Affixing requires two or more items. The non-main items(the ones you choose after the first one, called fodders) used in affixing need to hold the same number of “slots”(augments) as the base or main item you first choose, or need to have a higher amount.
@@ -89,14 +95,16 @@ Downslot by contrast is where you purposely take a weapon anf re-affix it, but c
   - Even useless S-grade augments are worth keeping for the sole purpose of making high slot affixes less risky. If the weapon is important and about to be upslotted, slap some s-augs on it if supported and watch the entire process become ten times more bearable because the game can no longer troll you by failing your 90% affix success rate by downslotting you to two, from six. Yes thank you this did happen to me and yes I agree it sucked thanks so muchhhhh.
 
   - The same principles apply to units as well. The caveat is only a few units possess augment factors, meaning synthesized augments such as Mana Reverie are a pain to make on them compared to weapons which can utilize augment factor from Profounds to make that one with relative ease. This is why you save your Augment Transfer Passes for your units as they are a pain to acquire.
+  
+  - When enhancing weapons to 35 for their SAF, prioritize using collection folder weapons from 15 CF1 and 2 or the 13* collection folder. All of them drop at +30 and reduce the lambda grinders you need and quickly plus 10 your weapon one 30 CF weapon at a time.
 
-###### Bonus Keys and how to best use them!
+## Bonus Keys and how to best use them!
 
 Firstly: Rainbows only on characters above level 85, 90 even. This, is, important. OK, carry on.
 Save your Tokyo silvers, golds and rainbows, rappy fevers and kazuchi assaults for PSO2 Day unless they are expiring. Use your Magatsu keys as soon as you have them(they give bonus SG which is an important ingame currency, the other things are negligible.). On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them(or in general for class ex-cubes, which you start getting once you max out your level and then refill the exp bar, 10 per level up!) with ALL your boosters on, RDR 250, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
 The idea is to maximize booster mileage, so you pop less boosters per key spam event and get more use out of each, which is important because powerful ones like Tri 150%s or EX boosts are not handed out often or easily acquired unless spending real money like nobody's business.
 
-###### Where can I get X important item from?
+## Where can I get X important item from?
 
 - Ex-cubes are acquired via swapping 10-12* grade weapons for ex-cubes in the swap shop(the one accessed from menu), commonly. They are also given as rewards for CO's, ARKS Missions, titles and urgent quest rewards. 
 
@@ -114,7 +122,10 @@ The idea is to maximize booster mileage, so you pop less boosters per key spam e
 
 - Luminfragment Emeles + Granias are acquired by doing Divide Quests enough times to earn the required points. Stages 1-10 are used more often for Divide Medal farming, whereas 20+ are used for Divide Points. This however is high level content so you won't need to think about it for a while. Once ready, look up guides to Divide Quests as it can be a bit tricky(and also fun AF) to do em.
 
-######## Resources:
+## Resources:
+
+- Class Builds List for Global(via Fleet Discord): https://arks-layer.com/naclassbuilds
+
 - Affixing Simulator: corvous.github.io/PSO2AffixingAssistant/
 A simple and to the point sim that will show you how your weapons can be setup when affixing things and also show you what augments can be used to make what. Play around with it, its quite intuitive! Also gives short links for sharing your setups with other people with ease, to allow brainstorming and whatnot.
 
