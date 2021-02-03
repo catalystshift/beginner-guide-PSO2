@@ -8,15 +8,15 @@
 - Help you determine your end-game gear and augments and what your end-game even is. End-game is somewhat loosely defined in PSO2 as you will see in the relevant section below.
 
  Written by user adventus on Discord(Phantasy Star Fleet), player ID Equanimity on PSO2 Ship 4.
-(written on the assumption that no money is intended to be spent on the game. You can doe, how else you gunna fashun competitively? Fashun endgame. For quite a few folks. Also getting that one more mag. Sexay.)
+This guide is written on the assumption that no money is intended to be spent on the game. You can doe, how else you gunna fashun competitively? Fashun endgame. For quite a few folks. Also getting that one more mag. Sexay.
 
 
-Credits to the helpful people of the Fleet Discord's #advice channel without whom I would still be clueless about near everything in this game, in no particular order:
+**Credits to the helpful people of the Fleet Discord's #advice channel without whom I would still be clueless about near everything in this game, in no particular order**:
 
 Callyo, Herm, Phantom Lavender, Mirra, nvmvoidrays, Amazing Ampharos, Aihie, Hesloth, Brand New Star, Hespathus, Stroudbun, nasty_wolverine, Qmzn, lazybone95, someone
 
 There are probably people I missed here as the channel is chock full of enthusiasts and people-who-know-their-stuff~! Thank you all!
-Additional thanks to these people for fact checking this and for correcting any mistakes made: ??? THIS COULD BE YOU, FELLOW HOOMAN
+**Additional thanks to these people for fact checking this and for correcting any mistakes made**: ??? THIS COULD BE YOU, FELLOW HOOMAN
 
 ## What mistakes do I avoid + what do I make sure to do?
 
