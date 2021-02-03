@@ -7,7 +7,7 @@
 - Provide in-depth information on how to play your class(es).
 - Help you determine your end-game gear and augments and what your end-game even is. End-game is somewhat loosely defined in PSO2 as you will see in the relevant section below.
 
-  ~written by user adventus on Discord(Phantasy Star Fleet)
+ Written by user adventus on Discord(Phantasy Star Fleet), player ID Equanimity on PSO2 Ship 4.
 (written on the assumption that no money is intended to be spent on the game. You can doe, how else you gunna fashun competitively? Fashun endgame. For quite a few folks. Also getting that one more mag. Sexay.)
 
 
