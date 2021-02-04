@@ -35,7 +35,7 @@ Callyo, Luster Lavender, S10
 -**Utilize skill tree builds from people who know what they are doing. You cannot reset your skill trees without spending real money or without reset tree passes handed out by Sega exceedingly rarely**.
 - **Don't level your skilltree or mag for the sake of equipping a weapon below 13**. In fact, do not do this, ever. It is not needed. Not. Needed.
 - Unless its a DEX mag character or you are doing it for collection titles, do NOT get Millionaire weapons over Croesus weapons from the collection folders. Millionaire weapons have far higher DEX requirements which are incredibly hard to reach. Croesus is much easier to equip and is the exact same weapon except with different colors. It must be noted that Armada UQ is being phased out at the time of writing this, barring new Collection Folders, the new recommended 15 to get will be the Orb weapons from 15 Collection Folder 2. Those merely require Urgent Quest completion.
--*Do not make mixed stat mags*. You want either a pure S ATK, R ATK, T ATK or DEX mag.
+- **Do not make mixed stat mags**. You want either a pure S ATK, R ATK, T ATK or DEX mag.
 - Do not bother enhancing weapons below 13* rank in most cases until you reach the point where you get into affixing things. Units you can enhance if skilled play is not your forte and you need the defense, but ideally try and get high rank units instead first(see if any free campaign giveaways are going on, or if cheap high ranks can be bought from Player/personal shop, get a minimum 5 slot if so, you want 12 ranks ideally, if your character can wear that).
 
 **The Easy-To-Forget/Overlook and also supes useful/important things**:
