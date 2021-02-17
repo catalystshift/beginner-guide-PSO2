@@ -21,24 +21,47 @@ There are probably people I missed here as the channel is chock full of enthusia
 
 Callyo, Luster Lavender, S10
 
-## What mistakes do I avoid + what do I make sure to do?
+## What ship(server) do I play on?
 
-**Common Item Mistakes + To-Do's**:
-- Don't sell grinders(normal or lambda), ex-cubes, photon anything, synthesizers, Custom Type 'X', Merits/Demerits, materials gotten via Gathering in expeditions, boosters(Triboost, EXP Boost, also items like Photon Boosters), 13* star and above weapons and eggs until you know what you are doing. You may sell basic grinders(never lambda) after keeping aside one stack of 999.
-- Do not trash/discard your bonus keys if they are expired.
-- Exchange all 10-12 rank weapons you get for ex-cubes via the swap shop(accessed from the menu outside of a quest or on the gateway ship). Like Deo weapons or Sigmas or Nox weapons. There is literally no upper limit on how many ex-cubes you need, so do this liberally, all, the, time.
-- Do not sell weapon 13* rank and above or dismantle them or swap for ex-cubes until you are certain you don't need them after later research(you will want the S-Augments page on the NA Visiphone). Unless your inventory is bursting, then, ask around and then do so, saving the important ones.
-- If you plan to get into affixing, save weapons and units(low rank ones) that are 7 slot(7s) and above in your inventory. Whatever number you are comfortable with keeping, despite the inventory management issues it will inevitably bring. Thank me later.
-- At some point you may start receiving items named as 'Add S1/S2' or 'Affix Augment' or 'Augment (HP&PP3)', until you know what you are doing, don't trash these.
+Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord for more info. Ship 4 does have players as well but its personal shop is not considered half as good as the ones on Ships 1-3. Ship 1 and 2 are considered to have the best player shops for new players helping reduce some of the grind in getting up to speed for endgame.
+Also keep in mind **you cannot play with players from other ships aside from ARKS Battles and Challenge quests, and you can do so only on the Universal Ship**. So if you have online or IRL friends who you are going to play with, make sure you take their Ship choices into consideration.
+Finally, **character slots are shared by all ships. You cannot make three characters on every ship, although you can make one separate character on three different ships which isn't recommended because then you can't share items between your toons and lose out on valuable inventory real estate by having all your characters on one ship. Additional characters may be made for 500 AC a pop.**
+**Keep in mind if planning to carry over your character from PSO2 to PSO2: New Genesis, you will be on the same Ship in NGS and won't get to switch it.**
 
-**Common Equipment/Class Mistakes + To-Do's**:
--**Utilize skill tree builds from people who know what they are doing. You cannot reset your skill trees without spending real money or without reset tree passes handed out by Sega exceedingly rarely**.
-- **Don't level your skilltree or mag for the sake of equipping a weapon below 13**. In fact, do not do this, ever. It is not needed. Not. Needed.
-- Unless its a DEX mag character or you are doing it for collection titles, do NOT get Millionaire weapons over Croesus weapons from the collection folders. Millionaire weapons have far higher DEX requirements which are incredibly hard to reach. Croesus is much easier to equip and is the exact same weapon except with different colors. It must be noted that Armada UQ is being phased out at the time of writing this, barring new Collection Folders, the new recommended 15 to get will be the Orb weapons from 15 Collection Folder 2. Those merely require Urgent Quest completion.
-- **Do not make mixed stat mags**. You want either a pure S ATK, R ATK, T ATK or DEX mag.
+## Important items, game features and how to best use them!
+
+**AC, SG, FUN and you!**
+- AC is this games premium currency and is used for premium subscriptions, additional Mag devices(an important piece of equipment), additional storage and more. Most importantly and often it is utilized to draw Scratch tickets which are loot boxes for costumes, but can also draw boosters and a few equipment tweaking items. These are often sold on the player shop so as far F2P players go, you may spend some time farming meseta for them but you won't be locked out of the important content, rest assured of that.
+- SG can also be bought for money, but is also handed out by finishing story mode, several 'Titles'(explained later in guide), SG tickets handed out by Sega and also daily logins. The main use for SG provided one is good at saving it is purchasing Material Storage which alleviates a lot of inventory management issues, and most importantly, allows materials to be used in the games equipment modifying or crafting systems from the storage itself, lasts for 30 days, per 300 SG spent. Also worth considering is Extended Storage(500 space) for 240 SG for 90 days, but requires manual management and misses out on the QOL feature.
+
+**Important Items and what to do with them**:
+- EX-Cubes are an important form of currency as well as crafting material used in making important gear. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
+- Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. Basic Grinders may be sold for money after keeping aside at least one stack of 999, although I would go with two stacks.
+- Photon Spheres are used on +10, +20 and +30 enhance stages of weapons to unlock their potentials. Each weapon has a hidden potential only activated by enhancing them. Photon Drops and Crystals can be exchanged to spheres. While not recommended in early game, spheres may also be used to buy leveling devices for your Mag.
+- Photon Boosters can be used to buy camos, or more importantly can be exchanged for Ultimate Boosters or EXP Weapon Minis.
+- Synthesizers are of main use to the Summoner class and its recommended to keep them until you finish leveling them to 75 at least. They are also used for enhancing weapon element levels to 60, although this is not something that's actually needed anymore and is basically a holdover from when PSO2 was just getting started.
+- Custom Type 'X' and Merit/Demerit items are used when crafted custom or zero versions of Photon Arts and Techniques, giving you an increased chance of a good outcome.
+- Materials gotten via the gathering/fishing minigame in expeditions are used for making food dishes in Franca's Cafe. The Rocks/Jewels specifically are used for enhancing Skill Rings. 
+- Rare Drop Rate 250%s, Triboost X%'s, EXP Earned X%'s, Meseta Earned X%'s are all items used to boost the drop/earn rate of the mentioned aspect of the game. Triboost 50's are earned while playing the game normally, but extra care must be taken when using Triboost 100s and especially 150s, as the latter are mostly handed out by Sega or purchased with real money. EX Exp/Tri/RDR work the same and are earned via SG and AC scratches.
+- Bonus Keys are earned via Recommended Quests and via the ARKS Mission game feature. They are also handed out by Sega during campaigns. A general rule of thumb is to run them if they are expiring before PSO2 Day with basic boosters on. If one expires, do not trash it. We recommend reading the section on Bonus Keys before using them and for learning what to do with expired keys.
+- 13 rarity and above weapons are better not trashed or sold until you have confirmed their main use, whether it is using their Augment Factor via enhancing to 35 or selling on player shop(15 rarity can't be sold) or for dismantling for important materials. 10-12 rarity weapons may be safely exchanged for excubes or photon spheres or lambda grinders via the Swap Shop accessed via the menu(opened by pressing ESC on keyboard).
+- "Add Sx: Name Here" where x is a number, are items that add powerful S-Augments onto your weapon or units. They should not be trashed or sold until you know their utility. Please check the section on affixing for more info. Also of note are "Augment X"(X could be (HP&PP3) for example) or "Affix Augment" items, same rules apply to them.
+- Egg items contain pets and are mainly used by Summoners and won't drop if not playing the class.
+- Candy items are used to strengthen pets and replace the affixing system for Summoners. Neither candy nor eggs will drop if not playing Summoner.
+
+**Important things to note about building characters and Mag Devices**: 
+-**Utilize skill tree builds from people who know what they are doing. You cannot reset your skill trees without spending real money or without reset tree passes which are handed out by Sega exceedingly rarely**.
+- Character stats are comprised of base stats which are determined by your current level, the skills leveled up in your skill tree and your currently equipped Mag Device, which counts towards your base stats. Your units and weapons are additive in comparison, along with their affixes. An exception are S-Augments on units, such as Fortified Ranged and Fortified Melee, which count towards base stats and are thus affected by buffs.
+- Mags are a key piece of equipment handed out by the NPC Kofy at the Quest Counter in the Gate Area, the relevant client order unlocks early and there are ARKS Missions that guide you to do it. Mags both add to your base stats as well feature their own abilities that can heal you, buff you, add to your damage output and also feature Photon Blasts which can add more damage, or utility such as sucking enemies up or recovering your PP. **Do not make mixed stat mags**. You want either a pure MEL, RNG, TEC or DEX mag. This is not min-max advice, the way the game is structured means that mixed stat mags are both worthless and can potentially prevent you from wearing later equipment. Leveling down your mag takes time and meseta, or real money, so get it right at first go. **Every character gets one mag, and they cannot be swapped between characters, additional mags cost real money and follow the same rules.**
+- **Don't level your skilltree(stat skills) or mag for the sake of equipping a weapon below 13 unless already part of a build**. In fact, do not do this, ever. It is not needed. Not. Needed.
+
+Recheck/place this elsewherev
+- Unless its a DEX mag character or you are doing it for collection titles, do NOT get Millionaire weapons over Croesus weapons from the collection folders. Millionaire weapons have far higher DEX requirements which are incredibly hard to reach. Croesus is much easier to equip and is the exact same weapon except with different colors. It must be noted that Armada UQ is being phased out at the time of writing this, barring new Collection Folders, the new recommended 15 to get will be the Orb weapons from 15 Collection Folder 2. Those merely require Urgent Quest completion. Refer the Calendar on pso2.com or on rappy-burst.com to see when Urgent Quests are on.
+
 - Do not bother enhancing weapons below 13* rank in most cases until you reach the point where you get into affixing things. Units you can enhance if skilled play is not your forte and you need the defense, but ideally try and get high rank units instead first(see if any free campaign giveaways are going on, or if cheap high ranks can be bought from Player/personal shop, get a minimum 5 slot if so, you want 12 ranks ideally, if your character can wear that).
+- ^^^^
 
-**The Easy-To-Forget/Overlook and also supes useful/important things**:
+**The Easy-To-Forget/Overlook and also useful/important things**:
 - **Collection folder weapons naturally have an enhance cap of 30**, and thus need more of the same to get them to 35. Same applies to Exchange Shop weapons at the exchange counter on floor two of the shopping plaza.
 - This won't be relevant till later, **but note that base weapons acquired at Zig exchanges also come with an enhance cap of 30**(I.E. Profound weapons), *some of these also drop naturally from quests in which case their enhance cap will be 35*(applies to all natural drops that are 13* and above. Below 13* generally have an enhance cap of 30 and need items called Enhance caps or the same weapon type to push it to 35, which you will basically never need to do, so).
 - Don't neglect the Daily Crafting option in your Personal Quarters(both are available from the start). These will get you titles plus other goodies at literally no cost to you(although daily crafts are time locked, which can be removed via Lilliparium items which are again, gifted to you for doing Daily Crafts LOL, from the Title Counter to the right of the Gateway Ship).
@@ -46,17 +69,11 @@ Callyo, Luster Lavender, S10
 - *Save. Your. SG.* It will be tempting to use it to purchase Mission Pass tiers, and many other things. Just save it, there are more useful things to spend it on.
 - **Do not roll AC scratches without asking around and some research**, ideally. Save it until you are sure you know what you are buying and why.
 
-**Bonus Key Mistakes plus To-Do's**:
+**Bonus Keys and How to Use Them**:
 - **Tokyo Rainbow Keys are meant for characters over level 80. Do not use Rainbows on characters below 80 and ideally use them on PSO2 Day**. Only ever use them on low level characters if they are about to expire before PSO2 Day or before one of your characters hits level 80. This is important, Sega does not hand these out like candy. Bonus Keys scale up to level 80.
 - **Do not run multiple Tokyo Bonus Silver keys at once ideally**. Save them(its ok if Tokyo Silvers expire, the idea is to exchange them for Golds during PSO2 Day, 5 for 1 gold key). The intent is to get the most out of your booster items(Exp 75/100s, Triboosts and so on). 5 Tokyo Silvers will give you more EXP in total than one gold, yes, but the amount of time it takes to run those five silvers versus the amount it takes to run multiple golds in the same amount...you don't want to waste boosters, especially once that are rarely handed out such as PSO2 Day Donuts.
 - As a low level player with a DEX mag, you may want to consider buying a Occuld or Sigma launcher off the player shop if your clear times are too long. They may help reduce them.
 - Ideally run keys on PSO2 Day(2nd of every month + also on 22nd if you are premium) with boosters on, unless your keys will expire before then.
-
-## What ship do I play on?
-
-Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord for more info. Ship 4 does have players as well but its personal shop is not considered half as good as the ones on Ships 1-3. Ship 1 and 2 are considered to have the best player shops for new players helping reduce some of the grind in getting up to speed for endgame.
-Also keep in mind **you cannot play with players from other ships aside from ARKS Battles and Challenge quests, and you can that only on the Universal Ship**. So if you have online or IRL friends who you are going to play with, make sure you take their Ship choices into consideration.
-Finally, **character slots are shared by all ships. You cannot make three characters on every ship, although you can make one separate character on three different ships which isn't recommended because then you can't share items between your toons and lose out on valuable inventory real estate by having all your characters on one ship. Additional characters may be made for 500 AC a pop.**
 
 ## What tasks are best focused on as a new player?
 
