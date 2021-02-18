@@ -1,3 +1,4 @@
+# EDITING IN PROGRESS, READ AT YOUR OWN RISK
 # A Basic No-Frills PSO 2 Newbie Guide 
 **Guide goal: To reduce confusion, help you avoid some common mistakes plus give a general guide on how to play the first few weeks of the game!**
 
