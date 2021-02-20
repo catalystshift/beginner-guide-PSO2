@@ -22,18 +22,35 @@ There are probably people I missed here as the channel is chock full of enthusia
 
 Callyo, Luster Lavender, S10
 
-## What ship(server) do I play on?
+## On the Basics
+
+### What ship(server) do I play on?
 
 Ships 1-3, generally. Pick any one, ask around the Phantasy Star Fleet discord for more info. Ship 4 does have players as well but its personal shop is not considered half as good as the ones on Ships 1-3. Ship 1 and 2 are considered to have the best player shops for new players helping reduce some of the grind in getting up to speed for endgame.
 Also keep in mind **you cannot play with players from other ships aside from ARKS Battles and Challenge quests, and you can do so only on the Universal Ship**. So if you have online or IRL friends who you are going to play with, make sure you take their Ship choices into consideration.
 Finally, **character slots are shared by all ships. You cannot make three characters on every ship, although you can make one separate character on three different ships which isn't recommended because then you can't share items between your toons and lose out on valuable inventory real estate by having all your characters on one ship. Additional characters may be made for 500 AC a pop.**
 **Keep in mind if planning to carry over your character from PSO2 to PSO2: New Genesis, you will be on the same Ship in NGS and won't get to switch it.**
 
+### How Pay-To-Win is this game?
+
+PSO2 is one of the better examples inf the F2P market by virtue of it being relatively casual and not pay-to-win. Premium players get access to 2 premium 'drinks', a buff item one can take before any quest, but the buff is not large enough to offset the need to play well for certain content. In the end, skill rules the game. 
+Other differences are mostly quality-of-life things, with those being willing to shell out money having access to increased inventory and storage sizes, drawing scratch ticket(lootboxes) for fashion items that are also often sold on Personal Shops that even F2P players can purchase from. 
+In short, you will never have to pay money to be competent at this game or to gear well, although paying money will add some QOL features to your game you are otherwise locked out of, and even then, not every one of those - refer the section on the SG currency below to understand how.
+
+### All this bores me, I wanna get into the game!
+
+While we do recommend reading through the guide, PSO2 is exceedingly simple to just get started with. The early-game loops goes something like this:
+- Start with Forest Expedition by going to the Quest Counter to your left and talking to the first NPC(behind a black booth, not the white booth) there. Select Main Quests > Expeditions > Forest Expedition and the only difficulty that will be available to you at that moment. Your goal in that quest is simply to reach the end of the area while killing everything in between, and is simply put, fun, and you can enjoy learning the basic special attacks and normal attacks you currently have of whichever class you picked in character creation.
+- After completing it, you will notice a message at the bottom to the effect of "Completed Missions, please accept...", this is a pointer about the ARKS Missions system, which serves as both an early game goal tracker and provides important rewards in terms of EXP, items, and Meseta. The ARKS Missions menu is accessed from (ingame) Main Menu > Quests(icon looks like a globe) > ARKS Missions. Sorted in to Main, Daily, Weekly, Limited-Time and Tier missions, you will be frequenting this menu quite often. Select "Receive All Rewards" to accept the rewards of all your completed ARKS Missions. Know that the Main tab constantly unlocks more missions AFTER you acccept the rewards of completed ones, and its advisable to do so as soon as you can.
+- These Main Missions will guide you through various basic game aspects, from explorations, to story mode, Kofy Client Orders and more.
+
+###
+
 ## Important items, game features and how to best use them!
 
 **AC, SG, FUN and you!**
 - AC is this games premium currency and is used for premium subscriptions, additional Mag devices(an important piece of equipment), additional storage and more. Most importantly and often it is utilized to draw Scratch tickets which are loot boxes for costumes, but can also draw boosters and a few equipment tweaking items. These are often sold on the player shop so as far F2P players go, you may spend some time farming meseta for them but you won't be locked out of the important content, rest assured of that.
-- SG can also be bought for money, but is also handed out by finishing story mode, several 'Titles'(explained later in guide), SG tickets handed out by Sega and also daily logins. The main use for SG provided one is good at saving it is purchasing Material Storage which alleviates a lot of inventory management issues, and most importantly, allows materials to be used in the games equipment modifying or crafting systems from the storage itself, lasts for 30 days, per 300 SG spent. Also worth considering is Extended Storage(500 space) for 240 SG for 90 days, but requires manual management and misses out on the QOL feature.
+- SG can also be bought for money, but is also handed out by finishing story mode, several 'Titles'(explained later in guide), SG tickets handed out by Sega and also daily logins. The main use for SG provided one is good at saving it is purchasing Material Storage which alleviates a lot of inventory management issues, and most importantly, allows materials to be used in the games equipment modifying or crafting systems from the storage itself, lasts for 30 days, per 300 SG spent. Also worth considering is Extended Storage(500 space) for 240 SG for 90 days, but requires manual management and misses out on the QOL feature. One may also purchase additional Collection Folder sheets for SG at 700 pop, worth considering if you play regularly and for a long time, but not really needed.
 - FUN points are earned upon login as well as several ingame activities and are primarily used for drawing FUN Scratch Tickets, which as a F2P player would be your primary source of Personal Quarter Access and Personal Shop Pass items, the former lets you access two larger Personal Quarter layouts and the latter lets you sell items on your Personal Shop.
 
 **Important Items and what to do with them**:
