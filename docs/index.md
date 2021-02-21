@@ -45,7 +45,7 @@ After completing tutorial you will find yourself in the Gate Area, and be shown 
 
 **ARKS Missions**
 From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Missions is at the top. In the Missions dialogue box, you will find Main, Daily, Weekly, Limited Time, and Tier.
-- Main Missions are checklist of objectives that moves you through the game's base features and gets you used to them while providing rewards for completing each mission.
+- Main Missions are checklist of objectives that moves you through the game's base features and gets you used to them while providing rewards for completing each mission. These are only refreshed/updated once you receive the completed missions reward, so ensure you do so.
 - Daily Missions refresh everyday and are utilized for earning 'Bonus Keys' as well as fulfilling the Weekly mission for fulfilling 15 Dailies for a Tokyo Bonus Key: Gold.
 - Weekly Missions are one of your main sources of Meseta and the mentioned gold key.
 - Tier Missions are utilized for unlocking tiers on the ongoing Mission Pass, which can feature important rewards such as endgame materials.
@@ -53,7 +53,12 @@ Of all of these, your priority as a new player will be the Main Missions. You wi
 
 **Client Orders**
 Wait, those aren't expeditions?? No! Its another important game feature!
-You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders
+You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders(CO's) that help you understand the game's basic systems, and the Main Missions will often guide you to those orders, which is why we recommend following Main Mission order and receiving reward upon each completion to prevent having to redo CO's(where applicable).
+
+Client Orders range from hunting down different enemy types and bosses to gathering various items on the field or just S-ranking different quests and so on.
+Of special note are the Daily Order Officer and Officer Cofy, found to the left and right in the Gate Area respectively.
+- Daily Order Officer offers CO's that change on a daily basis and award good meseta and experience on some of them, particularly one called "Supress Bar Lodos" which gives about 250,000 Meseta on completion. More important are the five orders at top with blue upwards arrows on them, these add to your Daily Boost, a boost type explained in the Boosts section below.
+- Officer Cofy is integral and actually manages content unlocks, from additional quest types to even class unlocks and certain special attacks. Your Main Missions will eventually guide you towards completing her CO's!
 
 **Expeditions**
 Expeditions will be something you return to over and over and is one of the first things new players do. They can be started by either heading to your right to the Quest Counter NPC and speaking to her(Main Quests > Expeditions) or via simply heading out the gate and choosing Forest Exploration and choosing Normal Difficulty.
@@ -61,7 +66,7 @@ On expeditions, (behind the black booth, to the right of the white booth) your m
 
 -
 
-After competion, you can return to the ARKS Missions menu, select 'Receive All Rewards' and then keep following the Main Missions as they refresh. This is recommended because if you rush around you can sometimes do a 
+After competion, you can return to the ARKS Missions menu, select 'Receive All Rewards' and then keep following the Main Missions as they refresh. This is recommended because if you rush around doing 
 
 - Start with Forest Expedition by going to the Quest Counter to your left and talking to the first NPC(behind a black booth, not the white booth) there. Select Main Quests > Expeditions > Forest Expedition and the only difficulty that will be available to you at that moment. Your goal in that quest is simply to reach the end of the area while killing everything in between, and is simply put, fun, and you can enjoy learning the basic special attacks and normal attacks you currently have of whichever class you picked in character creation.
 - After completing it, you will notice a message at the bottom to the effect of "Completed Missions, please accept...", this is a pointer about the ARKS Missions system, which serves as both an early game goal tracker and provides important rewards in terms of EXP, items, and Meseta. The ARKS Missions menu is accessed from (ingame) Main Menu > Quests(icon looks like a globe) > ARKS Missions. Sorted in to Main, Daily, Weekly, Limited-Time and Tier missions, you will be frequenting this menu quite often. Select "Receive All Rewards" to accept the rewards of all your completed ARKS Missions. Know that the Main tab constantly unlocks more missions AFTER you acccept the rewards of completed ones, and its advisable to do so as soon as you can.
