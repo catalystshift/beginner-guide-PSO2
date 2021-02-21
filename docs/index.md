@@ -39,7 +39,7 @@ In short, you will never have to pay money to be competent at this game or to ge
 
 ### All this bores me, I wanna get into the game!
 
-While we do recommend reading through the guide, PSO2 is exceedingly simple to just get started with. That said, for those looking for an optimal way to reach endgame as fast as possible, please Ctrl+F: "Optimal Path to End-Game" or scroll below.
+While we do recommend reading through the guide, PSO2 is exceedingly simple to just get started with. That said, for those looking for an optimal way to reach endgame as fast as possible, please Ctrl+F: "Optimal Path to End-Game" or scroll below. 
 After character creation, you will be launched into the tutorial quest, if you have never played PSO2 before we recommend saying 'yes' when it asks you if you want a tutorial and choosing casual difficulty when it asks you again for that. 
 After completing tutorial you will find yourself in the Gate Area, and be shown an introductory video which will also mention **ARKS Missions**.
 
@@ -49,8 +49,20 @@ From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Mi
 - Daily Missions refresh everyday and are utilized for earning 'Bonus Keys' as well as fulfilling the Weekly mission for fulfilling 15 Dailies for a Tokyo Bonus Key: Gold.
 - Weekly Missions are one of your main sources of Meseta and the mentioned gold key.
 - Tier Missions are utilized for unlocking tiers on the ongoing Mission Pass, which can feature important rewards such as endgame materials.
-Of all of these, your priority as a new player will be the Main Missions. You will notice one that says 'Clear Forest Expedition'.
-Expeditions will be something you return to over and over and are among the main content for new players to run.
+Of all of these, your priority as a new player will be the Main Missions. You will notice one that says 'Clear Forest Expedition'. Which brings us to...
+
+**Client Orders**
+Wait, those aren't expeditions?? No! Its another important game feature!
+You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders
+
+**Expeditions**
+Expeditions will be something you return to over and over and is one of the first things new players do. They can be started by either heading to your right to the Quest Counter NPC and speaking to her(Main Quests > Expeditions) or via simply heading out the gate and choosing Forest Exploration and choosing Normal Difficulty.
+On expeditions, (behind the black booth, to the right of the white booth) your main goal is to reach the final area and defeat the boss, defeating enemies along the way and occasionally destroying green/blue/orange/red boxes for loot. That's it. Its an ideal time to get used to how your class plays, the Photon Arts(Melee/ranged classes) or Techniques you currently possess(tech classes, PSO2's magic, basically). 
+
+-
+
+After competion, you can return to the ARKS Missions menu, select 'Receive All Rewards' and then keep following the Main Missions as they refresh. This is recommended because if you rush around you can sometimes do a 
+
 - Start with Forest Expedition by going to the Quest Counter to your left and talking to the first NPC(behind a black booth, not the white booth) there. Select Main Quests > Expeditions > Forest Expedition and the only difficulty that will be available to you at that moment. Your goal in that quest is simply to reach the end of the area while killing everything in between, and is simply put, fun, and you can enjoy learning the basic special attacks and normal attacks you currently have of whichever class you picked in character creation.
 - After completing it, you will notice a message at the bottom to the effect of "Completed Missions, please accept...", this is a pointer about the ARKS Missions system, which serves as both an early game goal tracker and provides important rewards in terms of EXP, items, and Meseta. The ARKS Missions menu is accessed from (ingame) Main Menu > Quests(icon looks like a globe) > ARKS Missions. Sorted in to Main, Daily, Weekly, Limited-Time and Tier missions, you will be frequenting this menu quite often. Select "Receive All Rewards" to accept the rewards of all your completed ARKS Missions. Know that the Main tab constantly unlocks more missions AFTER you acccept the rewards of completed ones, and its advisable to do so as soon as you can.
 - These Main Missions will guide you through various basic game aspects, from explorations, to story mode, Kofy Client Orders and more.
