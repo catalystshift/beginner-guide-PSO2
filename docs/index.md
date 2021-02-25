@@ -25,6 +25,12 @@ Callyo, Luster Lavender, S10
 **Glossary**:
 - CO = Client Orders
 - Collection Folder = CF
+- F2P = Free-to-Play
+- RDR = Rare Drop Rate
+- EL = Enhance/Enhancement Level
+- Aug = Augments
+- S-Aug = S-Augments
+- SAF = Augment Factors
 
 ## On the Basics
 
@@ -264,7 +270,7 @@ Or do you just do the story and tap out till another update?
 Will you make a machinima series out of PSO2?
 Make of it what you will, and more importantly, have fun with it :)
 
-## Ultra Hard and above Relevant Guides
+## Ultra Hard and Beyond
 This section will generally be used for providing guides to the current relevant and/or high difficulty content in PSO2. So if you seek guides for say, Ultimate Quests, please refer elsewhere.
 For now, that content is Divide Quests: [https://docs.google.com/document/d/1s1lF4i1RNqkIdJtJq1QMbpEfTonbTkebT8Fepi5-tuQ]
 
