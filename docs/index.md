@@ -74,16 +74,17 @@ Of special note are the Daily Order Officer and Officer Cofy, found to the left 
 
 **Expeditions**
 
-Expeditions will be something you return to over and over and is one of the first things new players do. They can be started by either heading to your right to the Quest Counter NPC and speaking to her(Main Quests > Expeditions) or via simply heading out the gate and choosing Forest Exploration and choosing Normal Difficulty.
-On expeditions, (behind the black booth, to the right of the white booth) your main goal is to reach the final area and defeat the boss, defeating enemies along the way and occasionally destroying green/blue/orange/red boxes for loot. That's it. Its an ideal time to get used to how your class plays, the Photon Arts(Melee/ranged classes) or Techniques you currently possess(tech classes, PSO2's magic, basically). 
+Expeditions will be something you return to over and over and is one of the first things new players do. They can be started by either heading to your right to the Quest Counter NPC(behind the black booth, to the right of the white booth) and speaking to her(Main Quests > Expeditions) or via simply heading out the gate and choosing Forest Exploration and choosing Normal Difficulty.
 
--
+On expeditions, your main goal is to reach the final area and defeat the boss, defeating enemies along the way and occasionally destroying green/blue/orange/red boxes for loot. That's it. Its an ideal time to get used to how your class plays, the Photon Arts(Melee/ranged classes) or Techniques you currently possess(tech classes, PSO2's magic, basically). 
+
+----
 
 After competion, you can return to the ARKS Missions menu, select 'Receive All Rewards' and then keep following the Main Missions as they refresh. This is recommended because if you rush around doing CO's before they show up in the Main Missions they won't always register as having being completed and may require you to do redo them, leading to an unnecessary waste of time.
-After this, you may continue just following the Main Missions until you feel you are ready to read this guide in more depth or others.
-If you find items you are confused by or question what to do with them, please consult the Important Items list right below this section as its possible it might be listed.
-OR
-We do still recommend at least looking at the list of **Important Items** right below this section as PSO2 has several useful items that are prone to misuse by players new to the game, and being aware of these will help you avoid those mistakes. 
+
+After this, you may continue just following the Main Missions until you feel you are ready to read this guide in more depth or to follow other guides.
+
+We do recommend at least looking at the list of **Important Items** right below this section as PSO2 has several useful items that are prone to misuse by players new to the game, and being aware of these will help you avoid those mistakes. 
 
 ## Important items, game features and how to best use them!
 
