@@ -60,6 +60,7 @@ From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Mi
 - Daily Missions refresh everyday and are utilized for earning 'Bonus Keys' as well as fulfilling the Weekly mission for fulfilling 15 Dailies for a Tokyo Bonus Key: Gold.
 - Weekly Missions are one of your main sources of Meseta and the mentioned gold key.
 - Tier Missions are utilized for unlocking tiers on the ongoing Mission Pass, which can feature important rewards such as endgame materials.
+----
 Of all of these, your priority as a new player will be the Main Missions. You will notice one that says 'Clear Forest Expedition'. Which brings us to...
 
 **Client Orders**
