@@ -91,7 +91,9 @@ We do still recommend at least looking at the list of **Important Items** right 
 
 **AC, SG, FUN and you!**
 - AC is this games premium currency and is used for premium subscriptions, additional Mag devices(an important piece of equipment), additional storage and more. Most importantly and often it is utilized to draw Scratch tickets which are loot boxes for costumes, but can also draw boosters and a few equipment tweaking items. **These are often sold on the player shop so as far F2P players go, you may spend some time farming meseta for purchasing them but you won't be locked out of the important content**, rest assured of that.
+
 - SG can also be bought for money, but is also handed out by finishing story mode, several 'Titles'(explained later in guide), SG tickets handed out by Sega and also daily logins. The **main recommended use for SG provided one is good at saving it is purchasing Material Storage which alleviates a lot of inventory management issues, and most importantly, allows materials to be used in the games equipment modifying or crafting systems from the storage itself, lasts for 30 days, per 300 SG spent**. Also worth considering is Extended Storage(500 space) for 240 SG for 90 days, but requires manual management and misses out on the QOL feature. One may also purchase additional Collection Folder sheets for SG at 700 pop, worth considering if you play regularly and for a long time, but not really needed.
+
 - FUN points are earned upon login as well as several ingame activities and are **primarily used for drawing FUN Scratch Tickets, which as a F2P player would be your primary source of Personal Quarter Access and Personal Shop Pass items**, the former lets you access two larger Personal Quarter layouts and **the latter lets you sell items on your Personal Shop**.
 
 **Mission Pass**
@@ -172,7 +174,8 @@ Now, to the point:
   - Pick any one character to play, and go.
 
   - Early on you will receive an item called a Mag. **This thing is extremely important and must remain not-fucked-up**. Look at me, you, will, not, fuck, this, up,       unless you have money to burn and want to do it as a joke, but I recommend charities instead. Every character gets its own mag, it cannot be traded to other           characters or players.
-    To avoid guide bloat, here is a link as to how to level a pure stat mag: https://forum.pso2.com/topic/538/tips-guide-raising-pure-mags-revised-2-5
+    To avoid guide bloat, here is a link as to how to level a pure stat mag: [https://forum.pso2.com/topic/538/tips-guide-raising-pure-mags-revised-2-5]
+
     One thing not mentioned there: Food devices can also be bought from the player shop, not just Photon Drop Exchange. This can be bearable/cheap-ish depending on how     well you are managing your meseta gathering. Compare ship prices and decide if you want to take that plunge, or if you are OK with mag leveling taking some time.
 
   - Play your first character focusing on Cofy's client orders plus Daily/Weekly ARKS Missions. Cofy can be found on the right side of the gate area at the quest           counter, also memorize the location of Equipment Officer Prin to the right of her(your right, her left). Cofy's orders unlock additional missions, classes and game     important features. Any time you see an order to the effect of introducing a new mechanic or unlocking something, prioritize it. Doing this will take you through       quite a few missions and game mechanics.
@@ -202,8 +205,9 @@ Early on most of the content is simple enough that you won't have to think too h
 
 ## Enhancing
 The games weapon and unit strengthening system. Enhancing and affixing are both carried out in the shopping plaza at the Item Lab next to the Weapon merchant on the left on the ground floor. 
-Weapons below 12 rank generally feature an enhance cap of 30 and either require specialized items to raise it or more weapons of the exact same name and type, CF weapons mirror this as well base weapons acquired from Zig for his endgame series exchanges. This however is not recommended nor necessary, with one exception for Zig weapons(a yet to arrive series).
-external guide link goes here
+
+Weapons below 12 rank generally feature an enhance cap of 30 and either require specialized items to raise it or more weapons of the exact same name and type, CF weapons mirror this as well base weapons acquired from Zig for his endgame series exchanges. This however is not recommended nor necessary, with one exception for a particular Zig weapon series(not released yet), as many of them drop in Urgent and Trigger quests.
+
 
 ## Augments/Affixing
 
