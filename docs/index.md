@@ -92,7 +92,8 @@ We do still recommend at least looking at the list of **Important Items** right 
 - FUN points are earned upon login as well as several ingame activities and are **primarily used for drawing FUN Scratch Tickets, which as a F2P player would be your primary source of Personal Quarter Access and Personal Shop Pass items**, the former lets you access two larger Personal Quarter layouts and **the latter lets you sell items on your Personal Shop**.
 
 **Mission Pass**
-
+PSO2's take on Battle Passes featuring unlockable rewards that can be earned via the completion of Tier Missions that provide everything from costumes to valuable crafting materials. If you have enough SG saved up, you can even purchase a Mission Pass Gold ticket allowing you to take rewards from gold tiers as well!
+In other words, yes, you can get items from this even as a completely F2P player without much trouble.
 
 **Important Items and what to do with them** Considering moving this below and putting systems explanations first:
 *Currencies*:
@@ -273,6 +274,10 @@ Make of it what you will, and more importantly, have fun with it :)
 ## Ultra Hard and Beyond
 This section will generally be used for providing guides to the current relevant and/or high difficulty content in PSO2. So if you seek guides for say, Ultimate Quests, please refer elsewhere.
 For now, that content is Divide Quests: [https://docs.google.com/document/d/1s1lF4i1RNqkIdJtJq1QMbpEfTonbTkebT8Fepi5-tuQ]
+Of additional note are:
+- The Limited Quest that is currently ongoing which can boost drop rates and exp rates for itself and Armada: Final Lament urgent quest.
+- Armada: Final Lament is an important urgent quest for getting your Shiva module requirements filled out and also potentially drops Exegul, Mitra and Varuna modules.
+- Extreme Quest: Risk Realm features potentially powerful S-Aug as well as Aug drops and can be solo'd.
 
 ## Resources:
 
