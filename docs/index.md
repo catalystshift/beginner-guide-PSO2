@@ -23,13 +23,14 @@ There are probably people I missed here as the channel is chock full of enthusia
 Callyo, Luster Lavender, S10
 
 **Glossary**:
+- XP = Experience Points
 - CO = Client Orders
 - Collection Folder = CF
 - F2P = Free-to-Play
 - RDR = Rare Drop Rate
-- EL = Enhance/Enhancement Level
+- EL = Enhance/Enhancement Level(guide specific, not used elsewhere)
 - Aug = Augments
-- S-Aug = S-Augments
+- SGA = S Grade Augments
 - SAF = Augment Factors
 
 ## On the Basics
@@ -98,8 +99,9 @@ We do recommend at least looking at the list of **Important Items** right below 
 
 **Mission Pass**
 
-PSO2's take on Battle Passes featuring unlockable rewards that can be earned via the completion of Tier Missions that provide everything from costumes to valuable crafting materials. If you have enough SG saved up, you can even purchase a Mission Pass Gold ticket allowing you to take rewards from gold tiers as well!
-In other words, yes, you can get items from this even as a completely F2P player without much trouble.
+PSO2's take on Battle Passes featuring unlockable rewards that can be earned via the completion of Tier Missions that provide everything from costumes to **valuable endgame crafting materials that are not worth missing out on**. If you have enough SG saved up, you can even purchase a Mission Pass Gold ticket allowing you to take rewards from gold tiers as well!
+
+In other words, yes, you can get all items from this even as a completely F2P player without much trouble.
 
 **Features**
 
@@ -111,7 +113,7 @@ On the 2nd and 22nd of every month, for F2P/premium and premium players respecti
 
 Items such as EXP Earned +X%, Rare Drop Rate(RDR) +X%, Triboost +X% as well as EX Triboost +X%. These both make leveling far easier as well as increase the amount of valuable loot you can get. 
 
-**For F2P players, the most important are EXP 75% and RDR 25%, easily acquired from exchange shops**. Triboost 50's are earned via doing daily missions every day, and 100s and 150s are both handed out by Sega as well as earned via several titles. EX Triboosts are generally only acquired via SG Scratch or AC Scratch.
+**For F2P players, the most important are EXP 75% and RDR 250%, easily acquired from exchange shops**. Triboost 50's are earned via doing daily missions every day, and 100s and 150s are both handed out by Sega as well as earned via several titles. EX Triboosts are generally only acquired via SG Scratch or AC Scratch.
 
 *Enhancing and Affixing*:
 
@@ -153,6 +155,7 @@ The Daily Crafting feature is in your Personal Quarters(both are available from 
 *Currencies*:
 
 - EX-Cubes are an important form of currency **as well as crafting material used in making important gear**. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
+- Class EX-Cubes earned either from UH content or via earning enough XP for a level up at the max level are used in Swap Shops as well as an edngame weapon crafting material.
 - Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. **Basic Grinders may be sold for money after keeping aside at least one stack of 999**, although I would go with two stacks.
 - Photon Spheres are used on +10, +20 and +30 enhance stages of weapons to unlock their potentials. Each weapon has a hidden potential only activated by enhancing them. Photon Drops and Crystals can be exchanged to spheres. While not recommended in early game, spheres may also be used to buy leveling devices for your Mag.
 - Photon Boosters can be used to buy camos, or more importantly can be exchanged for Ultimate Boosters or EXP Weapon Minis.
@@ -263,7 +266,9 @@ Firstly: **Rainbows are recommended only on characters at or above level 80**. K
 We recommend to save your Tokyo Silvers, Golds and Rainbows, Rappy fevers and Kazuchi Assaults for PSO2 Day unless they are expiring.
 Tokyo keys are of most use for leveling, Rappy Fever provides materials for leveling rings while Magatsu keys provide SG(and are thus best run as soon as possible).
 
-On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, the recommended method is to *exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them with ALL your boosters on*, RDR 250, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
+On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, the recommended method is to *exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them with most your boosters on*, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
+
+**You also want RDR 250%'s on for Rainbow Keys and Kazuchi Assault Keys as both those quests have valuable drops alongside XP.**
 
 The idea is to maximize booster mileage, so you pop less boosters per key spam event and get more use out of each, which is important because powerful ones like Tri 150%s or EX boosts are not handed out often or easily acquired unless spending real money like nobody's business.
 
