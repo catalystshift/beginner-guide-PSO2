@@ -105,14 +105,20 @@ In other words, yes, you can get items from this even as a completely F2P player
 On the 2nd and 22nd of every month, for F2P/premium and premium players respectively, this day features increased EXP gain, drop rates as well meseta earned. Its a prime day to level those classes which have been left neglected and earn their leveling titles! Also of note is February 2nd where PSO2 Day becomes Ultra PSO2 Day, featuring a whopping 400% incease in experience gain!
 
 *Booster Items*:
-Items such as EXP Earned +X%, Rare Drop Rate(RDR) +X%, Triboost +X% as well as EX Triboost +X%. These both make leveling far easier as well as increase the amount of valuable loot you can get. **For F2P players, the most important are EXP 75% and RDR 25%, easily acquired from exchange shops**. Triboost 50's are earned via doing daily missions every day, and 100s and 150s are both handed out by Sega as well as earned via several titles. EX Triboosts are generally only acquired via SG Scratch or AC Scratch.
+Items such as EXP Earned +X%, Rare Drop Rate(RDR) +X%, Triboost +X% as well as EX Triboost +X%. These both make leveling far easier as well as increase the amount of valuable loot you can get. 
+
+**For F2P players, the most important are EXP 75% and RDR 25%, easily acquired from exchange shops**. Triboost 50's are earned via doing daily missions every day, and 100s and 150s are both handed out by Sega as well as earned via several titles. EX Triboosts are generally only acquired via SG Scratch or AC Scratch.
 
 *Enhancing and Affixing*:
 Enhancing can be thought of as this game's weapon and armor strengthening system while affixing can be thought of as weapon and armor stat customization. These are large topics best covered by their own guides, but are addressed to some degree below in the guide.
 
 *Collection Folder*:
-To the right of Officer Kofy you have *Equipment Officer Prin* who handles your Collection Folder(CF) sheets. Each CF features weapons or eggs of high rarity of use to all classes, and has requirements ranging from beating a particular enemy type to doing certain quests to recieve the final item. Of particular note are the Croesus/Millionaire weapons, generally recommended as the baseline 15 rarity weapon to new players. However, the Armada series of urgent quests are no longer run so often making them a bit harder to acquire, if this proves to be the case, the next best thing is the Orb series from 15* Collection Folder 2.
-You will want to accept three sheets as soon as you can and start working towards them, ideally just the 15 rarity sheets as 13 rarity weapons can be bought of the player shop at fairly cheap prices. **Please note that Croesus is recommended over Millionaire as both are the same series with different skins, with Croesus having a lower stat requirement allowing them to be equipped earlier than Millionaire which few classes can equip without having a DEX mag**.
+To the right of Officer Kofy you have *Equipment Officer Prin* who handles your Collection Folder(CF) sheets. Each CF features weapons or eggs of high rarity of use to all classes, and has requirements ranging from beating a particular enemy type to doing certain quests to recieve the final item. 
+
+Of particular note are the Croesus/Millionaire weapons, generally recommended as the baseline 15 rarity weapon to new players. However, the Armada series of urgent quests are no longer run so often making them a bit harder to acquire, if this proves to be the case, the next best thing is the Orb series from 15* Collection Folder 2.
+
+You will want to accept three sheets as soon as you can and start working towards them, ideally just the 15 rarity sheets as 13 rarity weapons can be bought at the player shop at fairly cheap prices. **Please note that Croesus is recommended over Millionaire as both are the same series with different skins, with Croesus having a lower stat requirement allowing them to be equipped earlier than Millionaire which few classes can equip without having a DEX mag**.
+
 Collection Folder weapons are also utilized as Enhancement fodder for this game's 'weapon improvement' system, called enhancing, with every weapon in and after rank 13 having an enhancement cap of +35. A single CF weapon at +30 can take one from 1 to 10, gated only by Photon Spheres required to unlock 'weapon potentials' at enhance level 10, 20 and 30. That said, note that **CF weapons themselves have an enhance cap of 30, requiring the exact same weapon to be enhanced to 35, such as getting a Bayonect Orb sheet filled six times to level it to 35, the 1st base weapon, and five enhancement fodders for 1 per level**.
 
 *Swap/Exchange Shops*:
@@ -121,10 +127,12 @@ Collection Folder weapons are also utilized as Enhancement fodder for this game'
 - Exchange Shops are found on the second floor of the Shopping Complex on the right side of the map. The **Photon Drop and EX-Cube exchanges provide you with your booster items**(along with other things). **Rising Weapon Badges feature high rarity equipment(some of which can also be bought on player shop or farmed) and more importantly, Quest Triggers which is how you can manually run Urgent Quests. Not every trigger is available in RWB shops yet but many important ones exist**. The Medal Barterer is where you exchange Divide Medals for Luminfragments as well as Granias, both important items for the final endgame weapon series(not yet released).
 
 *Titles*:
-Titles can be earned for accomplishing several different objectives while playing the game, and aside from giving you catchy names to showcase over your ingame character name, they give rewards ranging from SG to **account wide stat boosts upon each class(barring Hero, Phantom, Etoile and Luster) reaching level 75 for the first time** to **Augment Transfer Passes to even endgame weapon crafting materials**. Titles are managed by the officer near the gate in the Gateway Area, right next to the quest counter on the right, behind a white counter. You can receive the title rewards whenever you wish, and its not uncommon to discover her after several rewards have already been unlocked. There are also titles with said crafting material rewards locked behind 600, 700 and 800 titles.
+Titles can be earned for accomplishing several different objectives while playing the game, and aside from giving you catchy names to showcase over your ingame character name, they give rewards ranging from SG to **account wide stat boosts upon each class(barring Hero, Phantom, Etoile and Luster) reaching level 75 for the first time** to **Augment Transfer Passes to even endgame weapon crafting materials**. Of note are titles with said crafting material rewards locked behind 600, 700 and 800 titles earned total.
+
+Titles are managed by the officer near the gate in the Gateway Area, right next to the quest counter on the right, behind a white counter. You can receive the title rewards whenever you wish, and its not uncommon to discover her after several rewards have already been unlocked. 
 
 *Personal Shop*:
-Not to be ignored at any cost, this will help a player at any level as well as act as a potential source of income if you get lucky earning Shop Passes from FUN Scratch or are a Premium player.
+Not to be ignored at any cost, this will help a player gear up at any level as well as act as a potential source of income if you get strike gold earning Shop Passes from FUN Scratch or are a Premium player.
 Accessed via the Visiphone(terminal with a pink icon over it), the Personal Shop features all manner of items from augments to fashion earned via AC scratch and put up to sale for meseta to equipment ranging from 1 rarity all the way to 14 rarity(15 weapons can't be sold, neither can 13 units). Its a common practice for new players to get 10-12 rarity weapons from the shop during early leveling as well as 12 rarity units whenever they become capable of wearing them from the same.
 
 *Daily Crafting*:
@@ -133,7 +141,7 @@ The Daily Crafting feature is in your Personal Quarters(both are available from 
 **Important Items and what to do with them**:
 *Currencies*:
 - EX-Cubes are an important form of currency **as well as crafting material used in making important gear**. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
-- Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. Basic Grinders may be sold for money after keeping aside at least one stack of 999, although I would go with two stacks.
+- Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. **Basic Grinders may be sold for money after keeping aside at least one stack of 999**, although I would go with two stacks.
 - Photon Spheres are used on +10, +20 and +30 enhance stages of weapons to unlock their potentials. Each weapon has a hidden potential only activated by enhancing them. Photon Drops and Crystals can be exchanged to spheres. While not recommended in early game, spheres may also be used to buy leveling devices for your Mag.
 - Photon Boosters can be used to buy camos, or more importantly can be exchanged for Ultimate Boosters or EXP Weapon Minis.
 - Synthesizers are of main use to the Summoner class and its recommended to keep them until you finish leveling them to 75 at least. They are also used for enhancing weapon element levels to 60, although this is not something that's actually needed anymore and is basically a holdover from when PSO2 was just getting started.
@@ -151,8 +159,6 @@ The Daily Crafting feature is in your Personal Quarters(both are available from 
 - 13 rarity and above weapons are better not trashed or sold until you have confirmed their main use, whether it is using their Augment Factor via enhancing to 35 or selling on player shop(15 rarity can't be sold) or for dismantling for important materials. 10-12 rarity weapons may be safely exchanged for excubes or photon spheres or lambda grinders via the Swap Shop accessed via the menu(opened by pressing ESC on keyboard). If your level is low and you are unable to purhcase/wear better equipment from the player shop, you may use them as placeholders.
 - Egg items contain pets and are mainly used by Summoners and won't drop if not playing the class with a few quest unique exceptions such as the Armada: Final Lament Urgent Quest which can can drop a 14 rarity Vulcan egg even if not playing as a Summoner.
 - Candy items are used to strengthen pets and replace the affixing system for Summoners. Neither candy nor eggs will drop if not playing Summoner.
-
-
 
 **Important things to note about building characters and Mag Devices**: 
 -**Utilize skill tree builds from people who know what they are doing. You cannot reset your skill trees without spending real money or without reset tree passes which are handed out by Sega exceedingly rarely**.
