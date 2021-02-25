@@ -258,9 +258,9 @@ The base concepts are simple but the game can gloss over some things. In-depth g
 
 ## Bonus Keys and how to best use them!
 
-Firstly: **Rainbows are recommended only on characters at or above level 80**. Keys scale with player level and Golld/Silver/Kazuchi/Rappy Fever/Magatsu do not scale after 70. Rainbows have the strongest effect at 80 and above as a result, as well as offering the best loot out of all.
+Firstly: **Rainbows are recommended only on characters at or above level 80**. Keys scale with player level and Gold/Silver/Kazuchi/Rappy Fever/Magatsu do not scale after 80. Rainbows have the strongest effect at 80 and above as a result, as well as offering the best loot out of all.
 
-We recommend to save your Tokyo Silvers, golds and rainbows, rappy fevers and kazuchi assaults for PSO2 Day unless they are expiring.
+We recommend to save your Tokyo Silvers, Golds and Rainbows, Rappy fevers and Kazuchi Assaults for PSO2 Day unless they are expiring.
 Tokyo keys are of most use for leveling, Rappy Fever provides materials for leveling rings while Magatsu keys provide SG(and are thus best run as soon as possible).
 
 On PSO2 Day, 2nd of the month for F2P Players, 22nd for premium sub players, the recommended method is to *exchange all your expired silvers for golds and then mass rush your keys on the classes/characters that need them with ALL your boosters on*, RDR 250, the highest EXP booster you have, the highest Triboost, any EX boosts. Ideally save EX boosts for rainbows unless you are confident the relevant keys will get run while that booster is still on.
@@ -276,13 +276,19 @@ That said, if Boosters and time are not a problem for you, it can make sense to 
 
 - Grinders/lambda grinders are earned via ARKS Missions/CO's as well. One can also exchange 12* weapons for lambdas if really needed. In a pinch, you can get them from the casino and you will notice they are also an option for several exchange shops for different items such as Buster and Divide Medals. The last option is not really recommended as there are better uses for those items. More importantly, as they are relevant for enhancing things they only become relevant once you hit XH and UH, so...just play normally and most likely you will have quite a bit by the time you need them.
 
+- Extreme Passes can be exchanged for in the EX-Cube exchange shop for 6 ex-cubes.
+
 - Triggers(items that let you do urgent quests) can be bought at Rising Weapon Badge exchanges(same row as the ex-cube exchange shop). This is important for later farming purposes. Some 4 man triggers also drop from their 12 man versions(generally called rematches, for example, Call of the Void dropping from The Malevolent Void trigger). 4 mans can have better and more reliable drop rates at times.
 
-- Photon Spheres are the same logic as grinders, earned via normal play. Additionally, useless  12* units can be exchanged for spheres, 5 for a single sphere. Or, if swimming in ex-cubes, you could consider swapping 10-11*s for them.
+- Photon Spheres are the same logic as grinders, earned via normal play. Additionally, useless  12 rarity units can be exchanged for spheres, 5 for a single sphere. Or, if swimming in ex-cubes, you could consider swapping 10-11 rarity weapons for them.
 
-- What about meseta? The best advice for meseta is this: Do your weeklies and dailies, and look out for high meseta daily orders(specifically Bar Lodos for 250K meseta). Another option that gives ok meseta but is time consuming is spamming extreme quests, **specifically Ruins & Oceanids extreme at stages 36-40**. A much better is opening a player shop, player shop passes can be earned by drawing FUN scratch tickets(very low chance), which is something you want to be doing frequently. Thankfully 1000 FUN tickets are easily bought at the EX-Cube exchange shop, so inventory management is the only real problem. Save valuable items(check via 'Check Item Market Prices') and then put them up for sale once you get your 3 day personal shop pass! FUN is earned by regular play, liking things on lookbook, sending kudos' and other things.
+- What about meseta? The best advice for meseta is this: Do your weeklies and dailies, and look out for high meseta daily orders(specifically Bar Lodos for 250K meseta). Another option that gives ok meseta but is time consuming is spamming extreme quests, **specifically Ruins & Oceanids extreme at stages 36-40**. 
 
-- 'I need this augment...' check the wiki! They often have drop locations or equipment listed! If not listed or you can't find it, come ask in the PSO2 Fleet discord :)
+A much better is opening a player shop, player shop passes can be earned by drawing FUN scratch tickets(very low chance), which is something you want to be doing frequently. Thankfully 1000 FUN tickets are easily bought at the EX-Cube exchange shop, so inventory management is the only real problem. 
+
+Save valuable items(check via 'Check Item Market Prices', 'Check Augment Prices') and then put them up for sale once you get your 3 day personal shop pass! FUN is earned by regular play, liking things on lookbook, sending kudos' and other things.
+
+- 'I need this augment...' check the wiki/visiphone! They often have drop locations or equipment listed! If not listed or you can't find it, come ask in the PSO2 Fleet discord :)
 
 - Diard/Plania/GolX/Sapphard – These are earned by dismantling 13* and above weapons. Diards via 15* dismantling. In essence if you are looking at Zig exchanges thinking about this, don't worry about it until you hit UH.
 
@@ -294,9 +300,11 @@ That said, if Boosters and time are not a problem for you, it can make sense to 
 
 - Luminfragment Emels + Granias are acquired by doing Divide Quests enough times to earn the required points. Stages 1-10 are used more often for Divide Medal farming, whereas 20+ are used for Divide Points. This however is high level content so you won't need to think about it for a while. Once ready, look up guides to Divide Quests as it can be a bit tricky(and also fun AF) to do em.
 
-- Exegul modules are dropped from the titular boss at Stage 5, 10, 15, 20 and 25 Divide Quests, with 5-15 being recommended. Varuna and Mitra drop at 25 and 30(30 is guaranteed battle), in all cases you need to kill the boss, S-ranking is not enough. Shiva modules drop from the Urgent Quest Armada: The Final Lament, guaranteed 3 upon quest completion, with RNG-dependant possibility for Exegul, Varuna and Mitra.
+- Exegul modules are dropped from the titular boss at Stage 5, 10, 15, 20 and 25 Divide Quests, with 5-15 being recommended. 
 
-Of special note is the Extreme Quest: Risk Realm, both 4 man and solo versions. They drop Ultimate Boosters, a low amount of Divide Medals, Buster Medals, Ultimate Boosters as well as high rarity weapons and units with a possibility for dropping that one S-Augment you so desperately want! It is commonly most played alongside Divide Quests in endgame.
+Varuna and Mitra drop at 25 and 30(30 is guaranteed battle), in all cases you need to kill the boss, S-ranking is not enough. Shiva modules drop from the Urgent Quest Armada: The Final Lament, guaranteed 3 upon quest completion, with RNG-dependant possibility for Exegul, Varuna and Mitra.
+
+Of special note is the Extreme Quest: Risk Realm, both 4 man and solo versions. Each run drops Ultimate Boosters, a low amount of Divide Medals, Buster Medals, Photon Boosters as well as high rarity weapons and units with a possibility for dropping that one S-Augment you so desperately want! It is commonly played alongside Divide Quests in endgame.
 
 ## What even is endgame in PSO2?
 Many MMO's have specific raids  that can only be done via top tier weapon and well built classes. This sn't the case with PSO2, where even poorly skilled(skill tree or reflexes) players can technically tackle the highest level content. PSO2 has no definitive final goal, except the one you set for yourself.
