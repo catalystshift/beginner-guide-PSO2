@@ -53,7 +53,7 @@ While we do recommend reading through the guide, PSO2 is exceedingly simple to j
 After character creation, you will be launched into the tutorial quest, if you have never played PSO2 before we recommend saying 'yes' when it asks you if you want a tutorial and choosing casual difficulty when it asks you again for that. 
 After completing tutorial you will find yourself in the Gate Area, and be shown an introductory video which will also mention **ARKS Missions**.
 
-##### ARKS Missions
+**ARKS Missions**
 
 From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Missions is at the top. In the Missions dialogue box, you will find Main, Daily, Weekly, Limited Time, and Tier.
 - Main Missions are checklist of objectives that moves you through the game's base features and gets you used to them while providing rewards for completing each mission. These are only refreshed/updated once you receive the completed missions reward, so ensure you do so.
@@ -62,7 +62,7 @@ From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Mi
 - Tier Missions are utilized for unlocking tiers on the ongoing Mission Pass, which can feature important rewards such as endgame materials.
 Of all of these, your priority as a new player will be the Main Missions. You will notice one that says 'Clear Forest Expedition'. Which brings us to...
 
-##### Client Orders
+**Client Orders**
 
 Wait, those aren't expeditions?? No! Its another important game feature!
 You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders(CO's) that help you understand the game's basic systems, **and the Main Missions will often guide you to those orders, which is why we recommend following Main Mission order and receiving reward upon each completion to prevent having to redo CO's(where applicable)**.
