@@ -24,7 +24,7 @@ Callyo, Luster Lavender, S10
 
 **Glossary**:
 - CO = Client Orders
-- 
+- Collection Folder = CF
 
 ## On the Basics
 
@@ -74,11 +74,13 @@ After competion, you can return to the ARKS Missions menu, select 'Receive All R
 After this, you may continue just following the Main Missions until you feel you are ready to read this guide in more depth or others.
 If you find items you are confused by or question what to do with them, please consult the Important Items list right below this section as its possible it might be listed.
 OR
-We do still recommend at least looking at the list of **Important Items** right below this section as PSO2 has several useful items that are prone to misuse by players new to the game, and being aware of these will smooth out your experience. 
+We do still recommend at least looking at the list of **Important Items** right below this section as PSO2 has several useful items that are prone to misuse by players new to the game, and being aware of these will help you avoid those mistakes. 
 
+--HOLDOVER, TO BE DELETD--
 - Start with Forest Expedition by going to the Quest Counter to your left and talking to the first NPC(behind a black booth, not the white booth) there. Select Main Quests > Expeditions > Forest Expedition and the only difficulty that will be available to you at that moment. Your goal in that quest is simply to reach the end of the area while killing everything in between, and is simply put, fun, and you can enjoy learning the basic special attacks and normal attacks you currently have of whichever class you picked in character creation.
 - After completing it, you will notice a message at the bottom to the effect of "Completed Missions, please accept...", this is a pointer about the ARKS Missions system, which serves as both an early game goal tracker and provides important rewards in terms of EXP, items, and Meseta. The ARKS Missions menu is accessed from (ingame) Main Menu > Quests(icon looks like a globe) > ARKS Missions. Sorted in to Main, Daily, Weekly, Limited-Time and Tier missions, you will be frequenting this menu quite often. Select "Receive All Rewards" to accept the rewards of all your completed ARKS Missions. Know that the Main tab constantly unlocks more missions AFTER you acccept the rewards of completed ones, and its advisable to do so as soon as you can.
 - These Main Missions will guide you through various basic game aspects, from explorations, to story mode, Kofy Client Orders and more.
+--^HOLDOVER--
 
 ###
 
@@ -100,12 +102,29 @@ We do still recommend at least looking at the list of **Important Items** right 
 *Crafting Materials*:
 - Custom Type 'X' and Merit/Demerit items are used when crafting custom or zero versions of Photon Arts and Techniques via Crafter Search or in your Personal Quarters, giving you an increased chance of a good outcome.
 - Materials gotten via the gathering/fishing minigame in expeditions are used for making food dishes in Franca's Cafe. The Rocks/Jewels specifically are used for enhancing Skill Rings. 
+- "Add Sx: Name Here" where x is a number, are items that add powerful S-Augments onto your weapon or units. They should not be trashed or sold until you know their utility. Please check the section on affixing for more info. Also of note are "Augment X"(X could be (HP&PP3) for example) or "Affix Augment" items, same rules apply to them.
+
+*Boosters/Leveling Aids*:
 - Rare Drop Rate 250%s, Triboost X%'s, EXP Earned X%'s, Meseta Earned X%'s are all items used to boost the drop/earn rate of the mentioned aspect of the game. Triboost 50's are earned while playing the game normally, but extra care must be taken when using Triboost 100s and especially 150s, as the latter are mostly handed out by Sega or purchased with real money. EX Exp/Tri/RDR work the same and are earned via SG and AC scratches.
 - Bonus Keys are earned via Recommended Quests and via the ARKS Mission game feature. They are also handed out by Sega during campaigns. A general rule of thumb is to run them if they are expiring before PSO2 Day with basic boosters on. If one expires, do not trash it. We recommend reading the section on Bonus Keys before using them and for learning what to do with expired keys.
-- 13 rarity and above weapons are better not trashed or sold until you have confirmed their main use, whether it is using their Augment Factor via enhancing to 35 or selling on player shop(15 rarity can't be sold) or for dismantling for important materials. 10-12 rarity weapons may be safely exchanged for excubes or photon spheres or lambda grinders via the Swap Shop accessed via the menu(opened by pressing ESC on keyboard).
-- "Add Sx: Name Here" where x is a number, are items that add powerful S-Augments onto your weapon or units. They should not be trashed or sold until you know their utility. Please check the section on affixing for more info. Also of note are "Augment X"(X could be (HP&PP3) for example) or "Affix Augment" items, same rules apply to them.
-- Egg items contain pets and are mainly used by Summoners and won't drop if not playing the class.
+
+*Equipment*:
+- 13 rarity and above weapons are better not trashed or sold until you have confirmed their main use, whether it is using their Augment Factor via enhancing to 35 or selling on player shop(15 rarity can't be sold) or for dismantling for important materials. 10-12 rarity weapons may be safely exchanged for excubes or photon spheres or lambda grinders via the Swap Shop accessed via the menu(opened by pressing ESC on keyboard). If your level is low and you are unable to purhcase/wear better equipment from the player shop, you may use them as placeholders.
+- Egg items contain pets and are mainly used by Summoners and won't drop if not playing the class with a few quest unique exceptions such as the Armada: Final Lament Urgent Quest which can can drop a 14 rarity Vulcan egg even if not playing as a Summoner.
 - Candy items are used to strengthen pets and replace the affixing system for Summoners. Neither candy nor eggs will drop if not playing Summoner.
+
+**Features**
+*Collection Folder*:
+To the right of Officer Kofy you have *Equipment Officer Prin* who handles your Collection Folder(CF) sheets. Each CF features weapons or eggs of high rarity of use to all classes, and has requirements ranging from beating a particular enemy type to doing certain quests to recieve the final item. Of particular note are the Croesus/Millionaire weapons, generally recommended as the baseline 15 rarity weapon to new players. However, the Armada series of urgent quests are no longer run so often making them a bit harder to acquire, if this proves to be the case, the next best thing is the Orb series from 15* Collection Folder 2.
+You will want to accept three sheets as soon as you can and start working towards them, ideally just the 15 rarity sheets as 13 rarity weapons can be bought of the player shop at fairly cheap prices.
+
+*Swap/Exchange Shops*:
+- The main swap shop can be easily accessed via the main menu > the second last menu > Swap Shop. Here is where you will exchange rarity 10-12 weapons for ex-cubes and photon spheres, you will revisit this menu quite a lot.
+- The NPC handling all Swap Shops is found in the Shopping Plaza in the top left corner on the ground floor. Most important is the Class Ex-Cube exchange for Augment Transfer Passes, allowing you to get a certain amount every month for class cubes which are earned from the highest difficulty and level ups beyond the last level. Of note is the Mission Badge Swap Shop which will be of use later and features Augment Capsules that can be useful for your endgame affixing, do not buy these without research. 
+- Exchange Shops are found on the second floor of the Shopping Complex on the right side of the map. The Photon Drop and EX-Cube exchanges provide you with your booster items(along with other things). Rising Weapon Badges feature high rarity equipment(some of which can also be bought on player shop or farmed) and more importantly, Quest Triggers which is how you can manually run Urgent Quests. Not every trigger is available in RWB shops yet but several important ones exist. The Medal Barterer is where you exchange Divide Medals for Luminfragments as well as Granias, both important items for the final endgame weapon series(not yet released).
+
+*Titles*:
+Titles can be earned for accomplishing several different objectives while playing the game, and aside from giving you catchy names to showcase over your ingame character name, they give rewards ranging from SG to Augment Transfer Passes to even endgame weapon crafting materials. Titles are managed by the officer near the gate in the Gateway Area, right next to the quest counter on the right, behind a white counter. You can receive the title rewards whenever you wish, and its not uncommon to discover her after several rewards have already been unlocked.
 
 **Important things to note about building characters and Mag Devices**: 
 -**Utilize skill tree builds from people who know what they are doing. You cannot reset your skill trees without spending real money or without reset tree passes which are handed out by Sega exceedingly rarely**.
