@@ -45,7 +45,7 @@ Finally, **character slots are shared by all ships. You cannot make three charac
 
 PSO2 is one of the better examples inf the F2P market by virtue of it being relatively casual and not pay-to-win. Premium players get access to 2 premium 'drinks', a buff item one can take before any quest, but the buff is not large enough to offset the need to play well for certain content. In the end, skill rules the game. 
 Other differences are mostly quality-of-life things, with those being willing to shell out money having access to increased inventory and storage sizes, drawing scratch ticket(lootboxes) for fashion items that are also often sold on Personal Shops that even F2P players can purchase from. 
-In short, you will never have to pay money to be competent at this game or to gear well, although paying money will add some QOL features to your game you are otherwise locked out of, and even then, not every one of those - refer the section on the SG currency below to understand how.
+**In short, you will never have to pay money to be competent at this game or to gear well**, although paying money will add some QOL features to your game you are otherwise locked out of, and even then, not every one of those - refer the section on the SG currency below to understand how.
 
 ### All this bores me, I wanna get into the game!
 
@@ -54,6 +54,7 @@ After character creation, you will be launched into the tutorial quest, if you h
 After completing tutorial you will find yourself in the Gate Area, and be shown an introductory video which will also mention **ARKS Missions**.
 
 **ARKS Missions**
+
 From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Missions is at the top. In the Missions dialogue box, you will find Main, Daily, Weekly, Limited Time, and Tier.
 - Main Missions are checklist of objectives that moves you through the game's base features and gets you used to them while providing rewards for completing each mission. These are only refreshed/updated once you receive the completed missions reward, so ensure you do so.
 - Daily Missions refresh everyday and are utilized for earning 'Bonus Keys' as well as fulfilling the Weekly mission for fulfilling 15 Dailies for a Tokyo Bonus Key: Gold.
@@ -62,6 +63,7 @@ From the main menu(ESC on keyboard) go to the quests tab(globe icon) and ARKS Mi
 Of all of these, your priority as a new player will be the Main Missions. You will notice one that says 'Clear Forest Expedition'. Which brings us to...
 
 **Client Orders**
+
 Wait, those aren't expeditions?? No! Its another important game feature!
 You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders(CO's) that help you understand the game's basic systems, **and the Main Missions will often guide you to those orders, which is why we recommend following Main Mission order and receiving reward upon each completion to prevent having to redo CO's(where applicable)**.
 
@@ -71,6 +73,7 @@ Of special note are the Daily Order Officer and Officer Cofy, found to the left 
 - **Officer Cofy is integral and actually manages content unlocks, from additional quest types to even class unlocks and certain special attacks**. Your Main Missions will eventually guide you towards completing her CO's!
 
 **Expeditions**
+
 Expeditions will be something you return to over and over and is one of the first things new players do. They can be started by either heading to your right to the Quest Counter NPC and speaking to her(Main Quests > Expeditions) or via simply heading out the gate and choosing Forest Exploration and choosing Normal Difficulty.
 On expeditions, (behind the black booth, to the right of the white booth) your main goal is to reach the final area and defeat the boss, defeating enemies along the way and occasionally destroying green/blue/orange/red boxes for loot. That's it. Its an ideal time to get used to how your class plays, the Photon Arts(Melee/ranged classes) or Techniques you currently possess(tech classes, PSO2's magic, basically). 
 
@@ -92,30 +95,9 @@ We do still recommend at least looking at the list of **Important Items** right 
 - FUN points are earned upon login as well as several ingame activities and are **primarily used for drawing FUN Scratch Tickets, which as a F2P player would be your primary source of Personal Quarter Access and Personal Shop Pass items**, the former lets you access two larger Personal Quarter layouts and **the latter lets you sell items on your Personal Shop**.
 
 **Mission Pass**
+
 PSO2's take on Battle Passes featuring unlockable rewards that can be earned via the completion of Tier Missions that provide everything from costumes to valuable crafting materials. If you have enough SG saved up, you can even purchase a Mission Pass Gold ticket allowing you to take rewards from gold tiers as well!
 In other words, yes, you can get items from this even as a completely F2P player without much trouble.
-
-**Important Items and what to do with them** Considering moving this below and putting systems explanations first:
-*Currencies*:
-- EX-Cubes are an important form of currency **as well as crafting material used in making important gear**. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
-- Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. Basic Grinders may be sold for money after keeping aside at least one stack of 999, although I would go with two stacks.
-- Photon Spheres are used on +10, +20 and +30 enhance stages of weapons to unlock their potentials. Each weapon has a hidden potential only activated by enhancing them. Photon Drops and Crystals can be exchanged to spheres. While not recommended in early game, spheres may also be used to buy leveling devices for your Mag.
-- Photon Boosters can be used to buy camos, or more importantly can be exchanged for Ultimate Boosters or EXP Weapon Minis.
-- Synthesizers are of main use to the Summoner class and its recommended to keep them until you finish leveling them to 75 at least. They are also used for enhancing weapon element levels to 60, although this is not something that's actually needed anymore and is basically a holdover from when PSO2 was just getting started.
-
-*Crafting Materials*:
-- Custom Type 'X' and Merit/Demerit items are used when crafting custom or zero versions of Photon Arts and Techniques via Crafter Search or in your Personal Quarters, giving you an increased chance of a good outcome.
-- Materials gotten via the gathering/fishing minigame in expeditions are used for making food dishes in Franca's Cafe. The Rocks/Jewels specifically are used for enhancing Skill Rings. 
-- "Add Sx: Name Here" where x is a number, are items that add powerful S-Augments onto your weapon or units. They should not be trashed or sold until you know their utility. Please check the section on affixing for more info. Also of note are "Augment X"(X could be (HP&PP3) for example) or "Affix Augment" items, same rules apply to them.
-
-*Boosters/Leveling Aids*:
-- Rare Drop Rate 250%s, Triboost X%'s, EXP Earned X%'s, Meseta Earned X%'s are all items used to boost the drop/earn rate of the mentioned aspect of the game. Triboost 50's are earned while playing the game normally, but extra care must be taken when using Triboost 100s and especially 150s, as the latter are mostly handed out by Sega or purchased with real money. EX Exp/Tri/RDR work the same and are earned via SG and AC scratches.
-- Bonus Keys are earned via Recommended Quests and via the ARKS Mission game feature. They are also handed out by Sega during campaigns. A general rule of thumb is to run them if they are expiring before PSO2 Day with basic boosters on. If one expires, do not trash it. We recommend reading the section on Bonus Keys before using them and for learning what to do with expired keys.
-
-*Equipment*:
-- 13 rarity and above weapons are better not trashed or sold until you have confirmed their main use, whether it is using their Augment Factor via enhancing to 35 or selling on player shop(15 rarity can't be sold) or for dismantling for important materials. 10-12 rarity weapons may be safely exchanged for excubes or photon spheres or lambda grinders via the Swap Shop accessed via the menu(opened by pressing ESC on keyboard). If your level is low and you are unable to purhcase/wear better equipment from the player shop, you may use them as placeholders.
-- Egg items contain pets and are mainly used by Summoners and won't drop if not playing the class with a few quest unique exceptions such as the Armada: Final Lament Urgent Quest which can can drop a 14 rarity Vulcan egg even if not playing as a Summoner.
-- Candy items are used to strengthen pets and replace the affixing system for Summoners. Neither candy nor eggs will drop if not playing Summoner.
 
 **Features**
 ***PSO2 Day***:
@@ -146,6 +128,30 @@ Accessed via the Visiphone(terminal with a pink icon over it), the Personal Shop
 
 *Daily Crafting*:
 The Daily Crafting feature is in your Personal Quarters(both are available from the start). These will get you titles plus other goodies at literally no cost to you(although daily crafts are time locked, which can be removed via Lilliparium items which are again, gifted to you for doing Daily Crafts, from the Title Counter to the right of the Gateway Ship). Getting these done regularly is recommended.
+
+**Important Items and what to do with them**:
+*Currencies*:
+- EX-Cubes are an important form of currency **as well as crafting material used in making important gear**. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
+- Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. Basic Grinders may be sold for money after keeping aside at least one stack of 999, although I would go with two stacks.
+- Photon Spheres are used on +10, +20 and +30 enhance stages of weapons to unlock their potentials. Each weapon has a hidden potential only activated by enhancing them. Photon Drops and Crystals can be exchanged to spheres. While not recommended in early game, spheres may also be used to buy leveling devices for your Mag.
+- Photon Boosters can be used to buy camos, or more importantly can be exchanged for Ultimate Boosters or EXP Weapon Minis.
+- Synthesizers are of main use to the Summoner class and its recommended to keep them until you finish leveling them to 75 at least. They are also used for enhancing weapon element levels to 60, although this is not something that's actually needed anymore and is basically a holdover from when PSO2 was just getting started.
+
+*Crafting Materials*:
+- Custom Type 'X' and Merit/Demerit items are used when crafting custom or zero versions of Photon Arts and Techniques via Crafter Search or in your Personal Quarters, giving you an increased chance of a good outcome.
+- Materials gotten via the gathering/fishing minigame in expeditions are used for making food dishes in Franca's Cafe. The Rocks/Jewels specifically are used for enhancing Skill Rings. 
+- "Add Sx: Name Here" where x is a number, are items that add powerful S-Augments onto your weapon or units. They should not be trashed or sold until you know their utility. Please check the section on affixing for more info. Also of note are "Augment X"(X could be (HP&PP3) for example) or "Affix Augment" items, same rules apply to them.
+
+*Boosters/Leveling Aids*:
+- Rare Drop Rate 250%s, Triboost X%'s, EXP Earned X%'s, Meseta Earned X%'s are all items used to boost the drop/earn rate of the mentioned aspect of the game. Triboost 50's are earned while playing the game normally, but extra care must be taken when using Triboost 100s and especially 150s, as the latter are mostly handed out by Sega or purchased with real money. EX Exp/Tri/RDR work the same and are earned via SG and AC scratches.
+- Bonus Keys are earned via Recommended Quests and via the ARKS Mission game feature. They are also handed out by Sega during campaigns. A general rule of thumb is to run them if they are expiring before PSO2 Day with basic boosters on. If one expires, do not trash it. We recommend reading the section on Bonus Keys before using them and for learning what to do with expired keys.
+
+*Equipment*:
+- 13 rarity and above weapons are better not trashed or sold until you have confirmed their main use, whether it is using their Augment Factor via enhancing to 35 or selling on player shop(15 rarity can't be sold) or for dismantling for important materials. 10-12 rarity weapons may be safely exchanged for excubes or photon spheres or lambda grinders via the Swap Shop accessed via the menu(opened by pressing ESC on keyboard). If your level is low and you are unable to purhcase/wear better equipment from the player shop, you may use them as placeholders.
+- Egg items contain pets and are mainly used by Summoners and won't drop if not playing the class with a few quest unique exceptions such as the Armada: Final Lament Urgent Quest which can can drop a 14 rarity Vulcan egg even if not playing as a Summoner.
+- Candy items are used to strengthen pets and replace the affixing system for Summoners. Neither candy nor eggs will drop if not playing Summoner.
+
+
 
 **Important things to note about building characters and Mag Devices**: 
 -**Utilize skill tree builds from people who know what they are doing. You cannot reset your skill trees without spending real money or without reset tree passes which are handed out by Sega exceedingly rarely**.
