@@ -22,6 +22,10 @@ There are probably people I missed here as the channel is chock full of enthusia
 
 Callyo, Luster Lavender, S10
 
+**Glossary**:
+- CO = Client Orders
+- 
+
 ## On the Basics
 
 ### What ship(server) do I play on?
@@ -53,12 +57,12 @@ Of all of these, your priority as a new player will be the Main Missions. You wi
 
 **Client Orders**
 Wait, those aren't expeditions?? No! Its another important game feature!
-You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders(CO's) that help you understand the game's basic systems, and the Main Missions will often guide you to those orders, which is why we recommend following Main Mission order and receiving reward upon each completion to prevent having to redo CO's(where applicable).
+You might have noticed ~~Brofin the broest of bros~~ Afin, your new friend from the tutorial in the Gate Area just walking back and forth, with a blue icon over his head. That icon indicates an NPC has 'Client Orders' to complete. In early game, various NPC's provide Client Orders(CO's) that help you understand the game's basic systems, **and the Main Missions will often guide you to those orders, which is why we recommend following Main Mission order and receiving reward upon each completion to prevent having to redo CO's(where applicable)**.
 
 Client Orders range from hunting down different enemy types and bosses to gathering various items on the field or just S-ranking different quests and so on.
 Of special note are the Daily Order Officer and Officer Cofy, found to the left and right in the Gate Area respectively.
-- Daily Order Officer offers CO's that change on a daily basis and award good meseta and experience on some of them, particularly one called "Supress Bar Lodos" which gives about 250,000 Meseta on completion. More important are the five orders at top with blue upwards arrows on them, these add to your Daily Boost, a boost type explained in the Boosts section below.
-- Officer Cofy is integral and actually manages content unlocks, from additional quest types to even class unlocks and certain special attacks. Your Main Missions will eventually guide you towards completing her CO's!
+- Daily Order Officer offers CO's that change on a daily basis and award good meseta and experience on some of them, **particularly one called "Suppress Bar Lodos"** which gives about 250,000 Meseta on completion. **More important are the five orders at top with blue upwards arrows on them, these add to your Daily Boost**, a boost type explained in the Boosts section below.
+- **Officer Cofy is integral and actually manages content unlocks, from additional quest types to even class unlocks and certain special attacks**. Your Main Missions will eventually guide you towards completing her CO's!
 
 **Expeditions**
 Expeditions will be something you return to over and over and is one of the first things new players do. They can be started by either heading to your right to the Quest Counter NPC and speaking to her(Main Quests > Expeditions) or via simply heading out the gate and choosing Forest Exploration and choosing Normal Difficulty.
@@ -66,7 +70,11 @@ On expeditions, (behind the black booth, to the right of the white booth) your m
 
 -
 
-After competion, you can return to the ARKS Missions menu, select 'Receive All Rewards' and then keep following the Main Missions as they refresh. This is recommended because if you rush around doing 
+After competion, you can return to the ARKS Missions menu, select 'Receive All Rewards' and then keep following the Main Missions as they refresh. This is recommended because if you rush around doing CO's before they show up in the Main Missions they won't always register as having being completed and may require you to do redo them, leading to an unnecessary waste of time.
+After this, you may continue just following the Main Missions until you feel you are ready to read this guide in more depth or others.
+If you find items you are confused by or question what to do with them, please consult the Important Items list right below this section as its possible it might be listed.
+OR
+We do still recommend at least looking at the list of **Important Items** right below this section as PSO2 has several useful items that are prone to misuse by players new to the game, and being aware of these will smooth out your experience. 
 
 - Start with Forest Expedition by going to the Quest Counter to your left and talking to the first NPC(behind a black booth, not the white booth) there. Select Main Quests > Expeditions > Forest Expedition and the only difficulty that will be available to you at that moment. Your goal in that quest is simply to reach the end of the area while killing everything in between, and is simply put, fun, and you can enjoy learning the basic special attacks and normal attacks you currently have of whichever class you picked in character creation.
 - After completing it, you will notice a message at the bottom to the effect of "Completed Missions, please accept...", this is a pointer about the ARKS Missions system, which serves as both an early game goal tracker and provides important rewards in terms of EXP, items, and Meseta. The ARKS Missions menu is accessed from (ingame) Main Menu > Quests(icon looks like a globe) > ARKS Missions. Sorted in to Main, Daily, Weekly, Limited-Time and Tier missions, you will be frequenting this menu quite often. Select "Receive All Rewards" to accept the rewards of all your completed ARKS Missions. Know that the Main tab constantly unlocks more missions AFTER you acccept the rewards of completed ones, and its advisable to do so as soon as you can.
@@ -81,13 +89,16 @@ After competion, you can return to the ARKS Missions menu, select 'Receive All R
 - SG can also be bought for money, but is also handed out by finishing story mode, several 'Titles'(explained later in guide), SG tickets handed out by Sega and also daily logins. The **main recommended use for SG provided one is good at saving it is purchasing Material Storage which alleviates a lot of inventory management issues, and most importantly, allows materials to be used in the games equipment modifying or crafting systems from the storage itself, lasts for 30 days, per 300 SG spent**. Also worth considering is Extended Storage(500 space) for 240 SG for 90 days, but requires manual management and misses out on the QOL feature. One may also purchase additional Collection Folder sheets for SG at 700 pop, worth considering if you play regularly and for a long time, but not really needed.
 - FUN points are earned upon login as well as several ingame activities and are **primarily used for drawing FUN Scratch Tickets, which as a F2P player would be your primary source of Personal Quarter Access and Personal Shop Pass items**, the former lets you access two larger Personal Quarter layouts and **the latter lets you sell items on your Personal Shop**.
 
-**Important Items and what to do with them**:
-- EX-Cubes are an important form of currency as well as crafting material used in making important gear. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
+**Important Items and what to do with them** Considering moving this below and putting systems explanations first:
+*Currencies*:
+- EX-Cubes are an important form of currency **as well as crafting material used in making important gear**. As currency it is used in the Exchange Shop found on floor two of the shopping plaza. Recommended purchases are Rare Drop Rate 250%s(especially after level 70), level 17 PA/Technique discs, and if you plan to engage with the game's equipment stat tweaking system(called affixing), then Augmentation Aids are especially important.
 - Grinders/Lambda Grinders are items used in enhancing weapons and units(units = armor) and rings. Lambda grinders are also used when applying Left Ring skills onto 12 rarity and above units. Basic Grinders may be sold for money after keeping aside at least one stack of 999, although I would go with two stacks.
 - Photon Spheres are used on +10, +20 and +30 enhance stages of weapons to unlock their potentials. Each weapon has a hidden potential only activated by enhancing them. Photon Drops and Crystals can be exchanged to spheres. While not recommended in early game, spheres may also be used to buy leveling devices for your Mag.
 - Photon Boosters can be used to buy camos, or more importantly can be exchanged for Ultimate Boosters or EXP Weapon Minis.
 - Synthesizers are of main use to the Summoner class and its recommended to keep them until you finish leveling them to 75 at least. They are also used for enhancing weapon element levels to 60, although this is not something that's actually needed anymore and is basically a holdover from when PSO2 was just getting started.
-- Custom Type 'X' and Merit/Demerit items are used when crafted custom or zero versions of Photon Arts and Techniques, giving you an increased chance of a good outcome.
+
+*Crafting Materials*:
+- Custom Type 'X' and Merit/Demerit items are used when crafting custom or zero versions of Photon Arts and Techniques via Crafter Search or in your Personal Quarters, giving you an increased chance of a good outcome.
 - Materials gotten via the gathering/fishing minigame in expeditions are used for making food dishes in Franca's Cafe. The Rocks/Jewels specifically are used for enhancing Skill Rings. 
 - Rare Drop Rate 250%s, Triboost X%'s, EXP Earned X%'s, Meseta Earned X%'s are all items used to boost the drop/earn rate of the mentioned aspect of the game. Triboost 50's are earned while playing the game normally, but extra care must be taken when using Triboost 100s and especially 150s, as the latter are mostly handed out by Sega or purchased with real money. EX Exp/Tri/RDR work the same and are earned via SG and AC scratches.
 - Bonus Keys are earned via Recommended Quests and via the ARKS Mission game feature. They are also handed out by Sega during campaigns. A general rule of thumb is to run them if they are expiring before PSO2 Day with basic boosters on. If one expires, do not trash it. We recommend reading the section on Bonus Keys before using them and for learning what to do with expired keys.
